@@ -2,7 +2,16 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://intisarbnaim.com/bn/</loc><lastmod>2022-08-05T02:33:14&#43;06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://intisarbnaim.com/bn/friganatool/</loc><lastmod>2022-08-05T03:18:25&#43;06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="https://intisarbnaim.com/friganatool/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="bn"
+                    href="https://intisarbnaim.com/bn/friganatool/"
+                    /></url><url>
+            <loc>https://intisarbnaim.com/bn/</loc><lastmod>2022-08-05T03:18:25&#43;06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://intisarbnaim.com/"
@@ -11,7 +20,7 @@
                     hreflang="bn"
                     href="https://intisarbnaim.com/bn/"
                     /></url><url>
-            <loc>https://intisarbnaim.com/bn/posts/</loc><lastmod>2022-08-05T02:33:14&#43;06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://intisarbnaim.com/bn/posts/</loc><lastmod>2022-08-05T03:18:25&#43;06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="en"
                         href="https://intisarbnaim.com/posts/"
