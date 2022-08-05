@@ -45,6 +45,26 @@ Resul:
 
 As you can guess, it was very tedious for me to write HTML code every time I wanted to use Furigana. This tool made it a lot easier. Now I just need to input the Kanji and Furigana, and it generates the code for me.
 
+## Test C# Code
+
+```C#
+class Car 
+{
+  string color;
+  int maxSpeed;
+  
+  // Main method
+  static void Main(string[] args)
+  {
+    Car myObj = new Car();
+    myObj.color = "red";
+    myObj.maxSpeed = 200;
+    Console.WriteLine(myObj.color);
+    Console.WriteLine(myObj.maxSpeed);
+  }
+}
+```
+
 
 
 [![App_Interfaxe](https://github.com/showmik/furigana-tool/raw/master/Docs/FuriganaToolInterface01.png)](https://github.com/showmik/furigana-tool/blob/master/Docs/FuriganaToolInterface01.png) [![App_Interfaxe](https://github.com/showmik/furigana-tool/raw/master/Docs/furigana_fool_interface_02.png)](https://github.com/showmik/furigana-tool/blob/master/Docs/furigana_fool_interface_02.png)
