@@ -1,6 +1,6 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>intisarbnaim</title>
+        <title>Intisar Bin Naim</title>
         <link>https://intisarbnaim.com/</link>
         <description>Hugo theme - LoveIt</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>showmik.haque@gmail.com (Intisar Bin Naim)</managingEditor>
@@ -8,10 +8,10 @@
             <atom:link href="https://intisarbnaim.com/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>Furigana Tool</title>
-    <link>https://intisarbnaim.com/friganatool/</link>
+    <link>https://intisarbnaim.com/furigana-tool/</link>
     <pubDate>Fri, 05 Aug 2022 03:18:25 &#43;0600</pubDate>
     <author>Intisar Bin Naim</author>
-    <guid>https://intisarbnaim.com/friganatool/</guid>
+    <guid>https://intisarbnaim.com/furigana-tool/</guid>
     <description><![CDATA[Furigana Tool Furigana Tool automates the process of writing HTML code for Furigana with ruby syntax. It uses a modified version of the Gem library and adds a User Interface to it.
 This tool was intended to be used along with the HTML Table Generator for one of my projects.
 The Ruby Syntax &ldquo;A ruby annotation is a small extra text, attached to the main text to indicate the pronunciation or meaning of the corresponding characters.]]></description>
