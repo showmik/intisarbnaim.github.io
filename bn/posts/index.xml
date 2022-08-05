@@ -5,6 +5,14 @@
         <description>সবগুলো পোস্ট | Intisar Bin Naim</description>
         <generator>Hugo -- gohugo.io</generator><language>bn</language><managingEditor>showmik.haque@gmail.com (Intisar Bin Naim)</managingEditor>
             <webMaster>showmik.haque@gmail.com (Intisar Bin Naim)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 05 Aug 2022 03:18:25 &#43;0600</lastBuildDate><atom:link href="https://intisarbnaim.com/bn/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Emoji 支持</title>
+    <link>https://intisarbnaim.com/bn/emoji-support/</link>
+    <pubDate>Tue, 01 Oct 2019 17:55:28 &#43;0800</pubDate>
+    <author>Dillon</author>
+    <guid>https://intisarbnaim.com/bn/emoji-support/</guid>
+    <description><![CDATA[<p>Emoji 可以通过多种方式在 Hugo 项目中启用.</p>]]></description>
+</item>
+<item>
     <title>ফুরিগানা টুল</title>
     <link>https://intisarbnaim.com/bn/furigana-tool/</link>
     <pubDate>Fri, 05 Aug 2022 03:18:25 &#43;0600</pubDate>
