@@ -2,6 +2,54 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>https://intisarbnaim.com/tags/browser/</loc><lastmod>2022-09-12T10:09:02&#43;06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://intisarbnaim.com/categories/</loc><lastmod>2022-09-12T10:09:02&#43;06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="bn"
+                        href="https://intisarbnaim.com/bn/categories/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://intisarbnaim.com/categories/"
+                    /></url><url>
+            <loc>https://intisarbnaim.com/tags/internet/</loc><lastmod>2022-09-12T10:09:02&#43;06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://intisarbnaim.com/</loc><lastmod>2022-09-12T10:09:02&#43;06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="bn"
+                        href="https://intisarbnaim.com/bn/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://intisarbnaim.com/"
+                    /></url><url>
+            <loc>https://intisarbnaim.com/make-browing-smooth/</loc><lastmod>2022-09-12T10:09:02&#43;06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="bn"
+                        href="https://intisarbnaim.com/bn/make-browing-smooth/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://intisarbnaim.com/make-browing-smooth/"
+                    /></url><url>
+            <loc>https://intisarbnaim.com/posts/</loc><lastmod>2022-09-12T10:09:02&#43;06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="bn"
+                        href="https://intisarbnaim.com/bn/posts/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://intisarbnaim.com/posts/"
+                    /></url><url>
+            <loc>https://intisarbnaim.com/tags/</loc><lastmod>2022-09-12T10:09:02&#43;06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="bn"
+                        href="https://intisarbnaim.com/bn/tags/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://intisarbnaim.com/tags/"
+                    /></url><url>
+            <loc>https://intisarbnaim.com/categories/tips-and-tricks/</loc><lastmod>2022-09-12T10:09:02&#43;06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://intisarbnaim.com/projects/</loc><lastmod>2022-08-05T08:02:20&#43;06:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="bn"
@@ -19,31 +67,4 @@
                     rel="alternate"
                     hreflang="en"
                     href="https://intisarbnaim.com/posts/"
-                    /></url><url>
-            <loc>https://intisarbnaim.com/categories/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="bn"
-                        href="https://intisarbnaim.com/bn/categories/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://intisarbnaim.com/categories/"
-                    /></url><url>
-            <loc>https://intisarbnaim.com/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="bn"
-                        href="https://intisarbnaim.com/bn/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://intisarbnaim.com/"
-                    /></url><url>
-            <loc>https://intisarbnaim.com/tags/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="bn"
-                        href="https://intisarbnaim.com/bn/tags/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://intisarbnaim.com/tags/"
                     /></url></urlset>

@@ -1,12 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Intisar Bin Naim</title>
-        <link>https://intisarbnaim.com/</link>
-        <description>It&#39;s time to meet the geek.</description>
+        <title>Tips and Tricks - Category - Intisar Bin Naim</title>
+        <link>https://intisarbnaim.com/categories/tips-and-tricks/</link>
+        <description>Tips and Tricks - Category - Intisar Bin Naim</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>showmik.haque@gmail.com (Intisar Bin Naim)</managingEditor>
-            <webMaster>showmik.haque@gmail.com (Intisar Bin Naim)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 12 Sep 2022 10:09:02 &#43;0600</lastBuildDate>
-            <atom:link href="https://intisarbnaim.com/index.xml" rel="self" type="application/rss+xml" />
-        <item>
+            <webMaster>showmik.haque@gmail.com (Intisar Bin Naim)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 12 Sep 2022 10:09:02 &#43;0600</lastBuildDate><atom:link href="https://intisarbnaim.com/categories/tips-and-tricks/" rel="self" type="application/rss+xml" /><item>
     <title>Make Your Internet Browsing Experience Faster and Safer</title>
     <link>https://intisarbnaim.com/make-browing-smooth/</link>
     <pubDate>Mon, 12 Sep 2022 10:09:02 &#43;0600</pubDate>
