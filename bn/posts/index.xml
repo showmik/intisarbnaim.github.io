@@ -5,12 +5,22 @@
         <description>সবগুলো পোস্ট | Intisar Bin Naim</description>
         <generator>Hugo -- gohugo.io</generator><language>bn</language><managingEditor>intisarbnaim@gmail.com (Intisar Bin Naim)</managingEditor>
             <webMaster>intisarbnaim@gmail.com (Intisar Bin Naim)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 13 Sep 2022 13:11:09 &#43;0600</lastBuildDate><atom:link href="https://intisarbnaim.com/bn/posts/" rel="self" type="application/rss+xml" /><item>
-    <title>আসুন C# শিখি - 01. জার্নির শুরু</title>
-    <link>https://intisarbnaim.com/bn/01-cs-journey-starts/</link>
+    <title>আসুন C# শিখি (01) — জার্নির শুরু</title>
+    <link>https://intisarbnaim.com/bn/cs-01-journey-starts/</link>
     <pubDate>Tue, 13 Sep 2022 13:11:09 &#43;0600</pubDate>
     <author>Intisar Bin Naim</author>
-    <guid>https://intisarbnaim.com/bn/01-cs-journey-starts/</guid>
-    <description><![CDATA[কিছু কথা অনেকদিন আগের ঘটনা, আমি আমার এক ছোট ভাইকে প্রোগ্রামিং শেখানো শুরু করেছিলাম। সে Unity-তে গেম ডেভেলপমেন্টে আগ্রহী আর আমিও C#-এ কম্ফর্টেবল, তাই শেখানোটা C# দিয়েই শুরু করি। শেখাতে গিয়ে একটা বিষয় লক্ষ্য করি, সে সব রিসোর্স বাংলায় চাইতো, যেমন- বাংলা কোর্স, বাংলা বই ইত্যাদি। শুধু তাই না, সে সবসময় সবকিছু কনসাইজ আকারে চাইতো, অর্থাৎ সে যেটা শিখতে চাচ্ছে সেটা টু-দ্যা-পয়েন্ট হতে হবে, বাড়তি কিছু থাকা যাবে না। আমি কোনো কিছু শেখাতে শুরু করলে আবার তার বেশ গভীরে চলে যাই, বুঝতে পারতাম আমার এই বদভ্যাসটা তার মোটেও পছন্দ হতো না।]]></description>
+    <guid>https://intisarbnaim.com/bn/cs-01-journey-starts/</guid>
+    <description><![CDATA[কিছু কথা অনেকদিন আগের ঘটনা, আমি আমার এক ছোট ভাইকে প্রোগ্রামিং শেখানো শুরু করেছিলাম। সে Unity-তে গেম ডেভেলপমেন্টে আগ্রহী আর আমিও C#-এ কম্ফর্টেবল, তাই শেখানোটা C# দিয়েই শুরু করি। শেখাতে গিয়ে একটা বিষয় লক্ষ্য করি, সে সব রিসোর্স বাংলায় চায়তো, যেমন- বাংলা কোর্স, বাংলা বই ইত্যাদি। শুধু তাই না, সে সবসময় সবকিছু কনসাইজ আকারে চায়তো, অর্থাৎ সে যেটা শিখতে চাচ্ছে সেটা টু-দ্যা-পয়েন্ট হতে হবে, বাড়তি কিছু থাকা যাবে না। আমি কোনো কিছু শেখাতে শুরু করলে আবার তার বেশ গভীরে চলে যাই, বুঝতে পারতাম আমার এই বদভ্যাসটা তার মোটেও পছন্দ হতো না।]]></description>
+</item>
+<item>
+    <title>আসুন C# শিখি (02) — কেন C#</title>
+    <link>https://intisarbnaim.com/bn/cs-02-why-c-sharp/</link>
+    <pubDate>Tue, 13 Sep 2022 12:00:00 &#43;0600</pubDate>
+    <author>Intisar Bin Naim</author>
+    <guid>https://intisarbnaim.com/bn/cs-02-why-c-sharp/</guid>
+    <description><![CDATA[দুনিয়ায় এতো প্রোগ্রামিং থাকতেও C# কেন শিখবেন? আপনাকে প্রথমেই অভিনন্দন জানাই শেখার জন্য C#-এর মতো জনপ্রিয় একটা ভাষা বেছে নিয়েছেন। নিশ্চিত থাকুন আপনি আপনার এ সিদ্ধান্তে কোনোদিনই রিগ্রেট ফিল করবেন না। আপনি যদি একজন ভালো ডট নেট ডেভেলপার হতে চান অথবা Unity নিয়ে কাজ করতে চান, তাহলে C#-এর কোনো বিকল্প নেই।
+এছাড়াও নিচের কারণগুলোর কারণে আপনার C# শেখা উচিতঃ
+1. C# কোড সহজেই পড়ে বোঝা যায় এবং ব্যবহার করা যায় একজন ডেভেলপার হিসেবে আপনাকে যতটা না বেশি কোড লিখতে হবে, তার চেয়ে অনেক বেশি সময় কোড পড়ে কাটাতে হবে। এখানে কোডের পঠনযোগ্যতা যদি খারাপ হয় তাহলে সেটা একটা সমস্যা। কিন্তু সৌভাগ্যক্রমে C# খুব সহজ, মার্জিত এবং কম্প্যাক্ট একটা ভাষা।]]></description>
 </item>
 <item>
     <title>ইন্টারনেট ব্রাউজ করুন আরো দ্রুত ও নিরাপদে</title>
