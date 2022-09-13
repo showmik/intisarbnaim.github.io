@@ -3,9 +3,9 @@
 
 The internet has become a part of our existence now. The fact that you are reading this article is also because of the internet. An internet connection, as well as a browser, is necessary to browse the internet. Today I'll talk about these browsers and show how you can use the internet more quickly and safely.
 
-## Selecting a Browser
+## 1.  Selecting a Browser
 
-The first step is to select a browser. Yes, I know you are already using a browser, be it Google Chrome, Mozilla's Firefox, or any other browser. But I would suggest you use the Brave Browser. I have been using Brave for the past three years and I am quite satisfied with it. I might sound a little biased here, but I think the Brave browser is the best for the following reasons:
+The first step is to select a browser. Yes, I know you are already using a browser, be it Google Chrome, Mozilla's Firefox, or any other browser. But I would suggest you use the [Brave Browser](https://brave.com/). I have been using Brave for the past three years and I am quite satisfied with it. I might sound a little biased here, but I think the Brave browser is the best for the following reasons:
 
 <br>
 
@@ -25,13 +25,13 @@ The first step is to select a browser. Yes, I know you are already using a brows
 
 It is clear that Brave is designed for performance and security. But if you want to use another chromium-based browser instead of Brave, you can still follow the tips below.
 
-## Changing the DNS Server
+## 2. Changing the DNS Server
 
 A DNS server is like a phone book, the browser knows the IP address of a domain by checking the DNS server. But the default DNS server that browsers use is much slower and less secure. So we will use a custom DNS server instead of this default server. Among the different DNS servers, I would recommend Cloudflare (1.1.1.1) because it is the fastest.
 
 > To change Brave DNS server load `brave://settings/security` in the address bar or go to Menu > Settings > Privacy and security > Security. Then turn on the "Use secure DNS" option and select the Cloudflare (1.1.1.1) DNS server.
 
-## Changing Privacy Settings
+## 3. Changing Privacy Settings
 
 Every browser has some privacy settings that you should change for your own security. In the case of Brave,
 
@@ -47,7 +47,7 @@ Every browser has some privacy settings that you should change for your own secu
 - Turn on the "Always use secure connections".
 `Settings > Privacy and security > Security`
 
-## Flags
+## 4. Flags
 
 Flags are experimental features of Chromium. There is nothing to be afraid of after hearing the word experimental. I use flags myself and haven't encountered any problems so far. But it is better not to use any flags without proper understanding.
 
@@ -61,7 +61,7 @@ Those who use download managers know that browser download speeds are much slowe
 
 #### 2. Experimental QUIC protocol
 
-QUIC is Google's new transfer protocol. This protocol is designed to make the web faster and more efficient. QUIC Protocol works very well even on low internet speed, so turn on these flags to increase your overall internet speed.
+[QUIC](https://en.wikipedia.org/wiki/QUIC) is Google's new transfer protocol. This protocol is designed to make the web faster and more efficient. QUIC Protocol works very well even on low internet speed, so turn on these flags to increase your overall internet speed.
 
 ## Conclusion
 
