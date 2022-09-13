@@ -4,7 +4,17 @@
         <link>https://intisarbnaim.com/tags/programming/</link>
         <description>Programming - Tag - Intisar Bin Naim</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>intisarbnaim@gmail.com (Intisar Bin Naim)</managingEditor>
-            <webMaster>intisarbnaim@gmail.com (Intisar Bin Naim)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 13 Sep 2022 13:11:09 &#43;0600</lastBuildDate><atom:link href="https://intisarbnaim.com/tags/programming/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>intisarbnaim@gmail.com (Intisar Bin Naim)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 14 Sep 2022 00:09:40 &#43;0600</lastBuildDate><atom:link href="https://intisarbnaim.com/tags/programming/" rel="self" type="application/rss+xml" /><item>
+    <title>Let&#39;s Learn C# (02) — Why C#</title>
+    <link>https://intisarbnaim.com/cs-02-why-c-sharp/</link>
+    <pubDate>Wed, 14 Sep 2022 00:09:40 &#43;0600</pubDate>
+    <author>Intisar Bin Naim</author>
+    <guid>https://intisarbnaim.com/cs-02-why-c-sharp/</guid>
+    <description><![CDATA[Why learn C# when there are so many programming languages? First of all, congratulations on choosing a popular language like C# to learn. Rest assured, you will never regret your decision. If you want to become a good .NET developer or work with Unity, there is no alternative to C#.
+The following are other reasons why learning C# is a good idea:
+1. C# code is easy to read and use As a developer, you will spend far more time reading code than writing it.]]></description>
+</item>
+<item>
     <title>Let’s Learn C# (01) — Journey Starts</title>
     <link>https://intisarbnaim.com/cs-01-journey-starts/</link>
     <pubDate>Tue, 13 Sep 2022 13:11:09 &#43;0600</pubDate>
