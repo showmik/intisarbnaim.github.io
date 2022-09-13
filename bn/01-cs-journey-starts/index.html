@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="bn">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="noodp" />
+    <title>আসুন C# শিখি - 01. জার্নির শুরু - Intisar Bin Naim</title><meta name="Description" content="It&#39;s time to meet the geek."><meta property="og:title" content="আসুন C# শিখি - 01. জার্নির শুরু" />
+<meta property="og:description" content="কিছু কথা অনেকদিন আগের ঘটনা, আমি আমার এক ছোট ভাইকে প্রোগ্রামিং শেখানো শুরু করেছিলাম। সে Unity-তে গেম ডেভেলপমেন্টে আগ্রহী আর আমিও C#-এ কম্ফর্টেবল, তাই শেখানোটা C# দিয়েই শুরু করি। শেখাতে গিয়ে একটা বিষয় লক্ষ্য করি, সে সব রিসোর্স বাংলায় চাইতো, যেমন- বাংলা কোর্স, বাংলা বই ইত্যাদি। শুধু তাই না, সে সবসময় সবকিছু কনসাইজ আকারে চাইতো, অর্থাৎ সে যেটা শিখতে চাচ্ছে সেটা টু-দ্যা-পয়েন্ট হতে হবে, বাড়তি কিছু থাকা যাবে না। আমি কোনো কিছু শেখাতে শুরু করলে আবার তার বেশ গভীরে চলে যাই, বুঝতে পারতাম আমার এই বদভ্যাসটা তার মোটেও পছন্দ হতো না।" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://intisarbnaim.com/bn/01-cs-journey-starts/" /><meta property="og:image" content="https://intisarbnaim.com/logo.png"/><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2022-09-13T13:11:09+06:00" />
+<meta property="article:modified_time" content="2022-09-13T13:11:09+06:00" /><meta property="og:site_name" content="Intisar Bin Naim" />
+
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://intisarbnaim.com/logo.png"/>
+
+<meta name="twitter:title" content="আসুন C# শিখি - 01. জার্নির শুরু"/>
+<meta name="twitter:description" content="কিছু কথা অনেকদিন আগের ঘটনা, আমি আমার এক ছোট ভাইকে প্রোগ্রামিং শেখানো শুরু করেছিলাম। সে Unity-তে গেম ডেভেলপমেন্টে আগ্রহী আর আমিও C#-এ কম্ফর্টেবল, তাই শেখানোটা C# দিয়েই শুরু করি। শেখাতে গিয়ে একটা বিষয় লক্ষ্য করি, সে সব রিসোর্স বাংলায় চাইতো, যেমন- বাংলা কোর্স, বাংলা বই ইত্যাদি। শুধু তাই না, সে সবসময় সবকিছু কনসাইজ আকারে চাইতো, অর্থাৎ সে যেটা শিখতে চাচ্ছে সেটা টু-দ্যা-পয়েন্ট হতে হবে, বাড়তি কিছু থাকা যাবে না। আমি কোনো কিছু শেখাতে শুরু করলে আবার তার বেশ গভীরে চলে যাই, বুঝতে পারতাম আমার এই বদভ্যাসটা তার মোটেও পছন্দ হতো না।"/>
+<meta name="application-name" content="Intisar Bin Naim">
+<meta name="apple-mobile-web-app-title" content="Intisar Bin Naim"><meta name="theme-color" content="#ffffff"><meta name="msapplication-TileColor" content="#da532c"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><link rel="manifest" href="/site.webmanifest"><link rel="canonical" href="https://intisarbnaim.com/bn/01-cs-journey-starts/" /><link rel="prev" href="https://intisarbnaim.com/bn/browse-web-faster/" /><link rel="stylesheet" href="/css/style.min.css"><link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.1.2/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+        <noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.1.2/css/all.min.css"></noscript><link rel="preload" href="https://cdn.jsdelivr.net/npm/animate.css@4.1.1/animate.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+        <noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@4.1.1/animate.min.css"></noscript><script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "BlogPosting",
+        "headline": "আসুন C# শিখি - 01. জার্নির শুরু",
+        "inLanguage": "bn",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https:\/\/intisarbnaim.com\/bn\/01-cs-journey-starts\/"
+        },"image": ["https:\/\/intisarbnaim.com\/images\/Apple-Devices-Preview.png"],"genre": "posts","keywords": "C Sharp, প্রোগ্রামিং","wordcount":  386 ,
+        "url": "https:\/\/intisarbnaim.com\/bn\/01-cs-journey-starts\/","datePublished": "2022-09-13T13:11:09+06:00","dateModified": "2022-09-13T13:11:09+06:00","license": "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.","publisher": {
+            "@type": "Organization",
+            "name": "Intisar Bin Naim","logo": "https:\/\/intisarbnaim.com\/images\/avatar.png"},"author": {
+                "@type": "Person",
+                "name": "Intisar Bin Naim"
+            },"description": ""
+    }
+    </script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-DHPM9FZ73K"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-DHPM9FZ73K');
+    </script>
+
+
+
+</head>
+
+<body data-header-desktop="fixed"
+    data-header-mobile="auto"><script
+        type="text/javascript">(window.localStorage && localStorage.getItem('theme') ? localStorage.getItem('theme') === 'dark' : ('light' === 'auto' ? window.matchMedia('(prefers-color-scheme: dark)').matches : 'light' === 'dark')) && document.body.setAttribute('theme', 'dark');</script>
+
+    <div id="mask"></div><div class="wrapper"><header class="desktop" id="header-desktop">
+    <div class="header-wrapper">
+        <div class="header-title">
+            <a href="/bn/" title="Intisar Bin Naim"><span class="header-title-pre"><i class="fa-regular fa-at"></i></span>intisarbnaim</a>
+        </div>
+        <div class="menu">
+            <div class="menu-inner"><a class="menu-item" href="/bn/posts/"> পোস্ট </a><a class="menu-item" href="/bn/projects/"> প্রজেক্ট </a><a class="menu-item" href="/bn/tags/"> ট্যাগ </a><a class="menu-item" href="/bn/categories/"> ক্যাটাগরি </a><a class="menu-item" href="https://github.com/showmik" title="GitHub" rel="noopener noreffer" target="_blank"><i class='fab fa-github fa-fw' aria-hidden='true'></i>  </a><span class="menu-item delimiter"></span><span class="menu-item search" id="search-desktop">
+                        <input type="text" placeholder="শিরোনাম বা বিষয়বস্তু সার্চ করুন..." id="search-input-desktop">
+                        <a href="javascript:void(0);" class="search-button search-toggle" id="search-toggle-desktop" title="সার্চ করুন">
+                            <i class="fas fa-search fa-fw" aria-hidden="true"></i>
+                        </a>
+                        <a href="javascript:void(0);" class="search-button search-clear" id="search-clear-desktop" title="Clear">
+                            <i class="fas fa-times-circle fa-fw" aria-hidden="true"></i>
+                        </a>
+                        <span class="search-button search-loading" id="search-loading-desktop">
+                            <i class="fas fa-spinner fa-fw fa-spin" aria-hidden="true"></i>
+                        </span>
+                    </span><a href="javascript:void(0);" class="menu-item theme-switch" title="থিম পরিবর্তন করুন">
+                    <i class="fas fa-adjust fa-fw" aria-hidden="true"></i>
+                </a><a href="javascript:void(0);" class="menu-item language" title="ভাষা সিলেক্ট করুন">
+                    <i class="fa fa-globe" aria-hidden="true"></i>                      
+                    <select class="language-select" id="language-select-desktop" onchange="location = this.value;"><option value="/01-cs-journey-starts/">English</option><option value="/bn/01-cs-journey-starts/" selected>বাংলা</option></select>
+                </a></div>
+        </div>
+    </div>
+</header><header class="mobile" id="header-mobile">
+    <div class="header-container">
+        <div class="header-wrapper">
+            <div class="header-title">
+                <a href="/bn/" title="Intisar Bin Naim"><span class="header-title-pre"><i class="fa-regular fa-at"></i></span>intisarbnaim</a>
+            </div>
+            <div class="menu-toggle" id="menu-toggle-mobile">
+                <span></span><span></span><span></span>
+            </div>
+        </div>
+        <div class="menu" id="menu-mobile"><div class="search-wrapper">
+                    <div class="search mobile" id="search-mobile">
+                        <input type="text" placeholder="শিরোনাম বা বিষয়বস্তু সার্চ করুন..." id="search-input-mobile">
+                        <a href="javascript:void(0);" class="search-button search-toggle" id="search-toggle-mobile" title="সার্চ করুন">
+                            <i class="fas fa-search fa-fw" aria-hidden="true"></i>
+                        </a>
+                        <a href="javascript:void(0);" class="search-button search-clear" id="search-clear-mobile" title="Clear">
+                            <i class="fas fa-times-circle fa-fw" aria-hidden="true"></i>
+                        </a>
+                        <span class="search-button search-loading" id="search-loading-mobile">
+                            <i class="fas fa-spinner fa-fw fa-spin" aria-hidden="true"></i>
+                        </span>
+                    </div>
+                    <a href="javascript:void(0);" class="search-cancel" id="search-cancel-mobile">
+                        বাতিল করুন
+                    </a>
+                </div><a class="menu-item" href="/bn/posts/" title="">পোস্ট</a><a class="menu-item" href="/bn/projects/" title="">প্রজেক্ট</a><a class="menu-item" href="/bn/tags/" title="">ট্যাগ</a><a class="menu-item" href="/bn/categories/" title="">ক্যাটাগরি</a><a class="menu-item" href="https://github.com/showmik" title="GitHub" rel="noopener noreffer" target="_blank"><i class='fab fa-github fa-fw' aria-hidden='true'></i></a><a href="javascript:void(0);" class="menu-item theme-switch" title="থিম পরিবর্তন করুন">
+                <i class="fas fa-adjust fa-fw" aria-hidden="true"></i>
+            </a><a href="javascript:void(0);" class="menu-item" title="ভাষা সিলেক্ট করুন">
+                    <i class="fa fa-globe fa-fw" aria-hidden="true"></i>
+                    <select class="language-select" onchange="location = this.value;"><option value="/01-cs-journey-starts/">English</option><option value="/bn/01-cs-journey-starts/" selected>বাংলা</option></select>
+                </a></div>
+    </div>
+</header><div class="search-dropdown desktop">
+        <div id="search-dropdown-desktop"></div>
+    </div>
+    <div class="search-dropdown mobile">
+        <div id="search-dropdown-mobile"></div>
+    </div><main class="main">
+            <div class="container"><div class="toc" id="toc-auto">
+            <h2 class="toc-title">বিষয়বস্তু</h2>
+            <div class="toc-content" id="toc-content-auto"></div>
+        </div><article class="page single"><h1 class="single-title animate__animated animate__flipInX">আসুন C# শিখি - 01. জার্নির শুরু</h1><div class="post-meta">
+            <div class="post-meta-line"><span class="post-author"><a href="https://intisarbnaim.com" title="Author" target="_blank" rel="noopener noreffer author" class="author"><i class="fas fa-user-circle fa-fw" aria-hidden="true"></i>Intisar Bin Naim</a></span>&nbsp;<span class="post-category"><a href="/bn/categories/%E0%A6%86%E0%A6%B8%E0%A7%81%E0%A6%A8-c-sharp-%E0%A6%B6%E0%A6%BF%E0%A6%96%E0%A6%BF/"><i class="far fa-folder fa-fw" aria-hidden="true"></i>আসুন C Sharp শিখি</a>-এ অন্তর্ভুক্ত</span></div>
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw" aria-hidden="true"></i>&nbsp;<time datetime="13-09-2022">13-09-2022</time>&nbsp;<i class="fas fa-pencil-alt fa-fw" aria-hidden="true"></i>&nbsp;386-টি শব্দ&nbsp;
+                <i class="far fa-clock fa-fw" aria-hidden="true"></i>&nbsp;2 মিনিট&nbsp;</div>
+        </div><div class="details toc" id="toc-static"  data-kept="">
+                <div class="details-summary toc-title">
+                    <span>বিষয়বস্তু</span>
+                    <span><i class="details-icon fas fa-angle-right" aria-hidden="true"></i></span>
+                </div>
+                <div class="details-content toc-content" id="toc-content-static"><nav id="TableOfContents">
+  <ul>
+    <li><a href="#কছ-কথ">কিছু কথা</a></li>
+    <li><a href="#কন-এই-লখলখ">কেনো এই লেখালেখি</a></li>
+    <li><a href="#পরশষ">পরিশেষ</a></li>
+  </ul>
+</nav></div>
+            </div><div class="content" id="content"><h2 id="কছ-কথ">কিছু কথা</h2>
+<p>অনেকদিন আগের ঘটনা, আমি আমার এক ছোট ভাইকে প্রোগ্রামিং শেখানো শুরু করেছিলাম। সে <a href="https://unity.com/" target="_blank" rel="noopener noreffer ">Unity</a>-তে গেম ডেভেলপমেন্টে আগ্রহী আর আমিও C#-এ কম্ফর্টেবল, তাই শেখানোটা C# দিয়েই শুরু করি। শেখাতে গিয়ে একটা বিষয় লক্ষ্য করি, সে সব রিসোর্স বাংলায় চাইতো, যেমন- বাংলা কোর্স, বাংলা বই ইত্যাদি। শুধু তাই না, সে সবসময় সবকিছু কনসাইজ আকারে চাইতো, অর্থাৎ সে যেটা শিখতে চাচ্ছে সেটা টু-দ্যা-পয়েন্ট হতে হবে, বাড়তি কিছু থাকা যাবে না। আমি কোনো কিছু শেখাতে শুরু করলে আবার তার বেশ গভীরে চলে যাই, বুঝতে পারতাম আমার এই বদভ্যাসটা তার মোটেও পছন্দ হতো না।</p>
+<h2 id="কন-এই-লখলখ">কেনো এই লেখালেখি</h2>
+<p>আমি আমার এই অভিজ্ঞতা থেকে বুঝতে পেরেছি, কোনো একটা বিষয়ে যারা বিগিনার তারা অতিরিক্ত কথা পছন্দ করে না। অন্য কোনো বিষয়ের ক্ষেত্রে জানি না,কিন্তু প্রোগ্রামিং-এ তাদের এই মাইন্ডসেটকে আমি দোষ দিব না। প্রোগ্রামিং শুরু করার জন্য আসলেই ভিতরের অতো কিছু জানার দরকার নেই, অন্তত শেখার শুরুর দিকে।</p>
+<p>আমার নিজের অভিজ্ঞতার কথায় ধরা যাক, আমি শুধু প্রোগ্রামিং শেখার খাতিরেই প্রোগ্রামিং শিখি নি, আমি আসলে একটা গেম বানাতে চেয়েছিলাম। গেম বানানোর জন্য নেহাতই প্রোগ্রামিং-এর দরকার পড়েছিল বলে প্রোগ্রামিংটা শেখা হয়েছে। যখন যেটা প্রয়োজন ছিল তখন শুধু ততোটুকুই শিখেছি। পরে একটু অভিজ্ঞতা বাড়লে ধীরে ধীরে ভেতরকার বিষয়গুলোও আয়ত্ব হয়েছে।</p>
+<p>এ উপলব্ধি থেকে আমি আমার সে ছোটো ভাইকে কথা দিয়েছিলাম, আমি নিজেই বাংলায় C# এর উপর কন্টেন্ট লেখা শুরু করবো। কন্টেন্টগুলো হবে ছোট এবং সাবলীল ভাযায় যাতে যে কেউ সহজে ফলো করতে পারে। এতোদিন সময় ও সুযোগের অভাবে লেখালেখি শুরু করতে পারিনি, কিন্তু আজকে সে কথা রাখার সময় চলে এসেছে।</p>
+<p>আর যে শুধু কথা রাখার জন্যই তা না, C# নিয়ে লেখালেখি শুরু করার পেছনে আরেকটা কারণ রয়েছে। আমি মনে করি, কোন কিছু শেখার একটা মোক্ষম উপায় হচ্ছে সেটা অন্যকে শেখানো। আপনি যে বিষয়ে জানেন সেটা অন্যকে শেখাতে না পারলে বুঝতে হবে আপনার নিজেরই সে বিষয়ে ঘাটতি রয়েছে। আমি আমার ঘাটতি দূর করতে চাই এবং C# নিয়ে আরো জানতে চাই। সে উদ্দেশ্য থেকে আমার এই লেখালেখির জার্নির শুরু।</p>
+<h2 id="পরশষ">পরিশেষ</h2>
+<p>আগেই বলেনি, আমি C#-এ এক্সপার্ট না। যেটা লিখব, তার উপর আমাকে যথেষ্ট রিসার্চ করে লিখতে হবে। আর লেখা যে ১০০% নির্ভুল হবে, এটাও ধরে নেয়া বোকামি। আমার লেখায় যদি আপনারা কোনো ভুল খুঁজে পান, তাহলে অনুরোধ রইল আমাকে সঙ্গে সঙ্গে জানাবেন। আপনি আমার সাথে সরাসরি যোগাযোগ করতে পারেন <a href="https://facebook.com/showmik1" target="_blank" rel="noopener noreffer ">ফেসবুক</a> অথবা <a href="mailto:intisarbnaim@gmail.com" rel="">ইমেইলে</a>। এছাড়াও অন্য কোনো বিষয়ে প্রশ্ন থাকলেও আমার সাথে যোগাযোগ করতে পারেন।</p>
+<p>পরিশেষে, আমি এটাই আশা করবো, আমার লেখালেখির এই নতুন জার্নি যেনো একটু হলেও আপনাদের উপকারে আসে।</p>
+</div><div class="post-footer" id="post-footer">
+    <div class="post-info">
+        <div class="post-info-line">
+            <div class="post-info-mod">
+                <span>13-09-2022 তারিখে আপডেট করা হয়েছে</span>
+            </div></div>
+        <div class="post-info-line">
+            <div class="post-info-md"><span>
+                            <a class="link-to-markdown" href="/bn/01-cs-journey-starts/index.md" target="_blank">মার্কডাউন পড়ুন</a>
+                        </span></div>
+            <div class="post-info-share">
+                <span><a href="javascript:void(0);" title="শেয়ার করুন Twitter" data-sharer="twitter" data-url="https://intisarbnaim.com/bn/01-cs-journey-starts/" data-title="আসুন C# শিখি - 01. জার্নির শুরু" data-via="showmik_h" data-hashtags="C Sharp,প্রোগ্রামিং"><i class="fab fa-twitter fa-fw" aria-hidden="true"></i></a><a href="javascript:void(0);" title="শেয়ার করুন Facebook" data-sharer="facebook" data-url="https://intisarbnaim.com/bn/01-cs-journey-starts/" data-hashtag="C Sharp"><i class="fab fa-facebook-square fa-fw" aria-hidden="true"></i></a><a href="javascript:void(0);" title="শেয়ার করুন Linkedin" data-sharer="linkedin" data-url="https://intisarbnaim.com/bn/01-cs-journey-starts/"><i class="fab fa-linkedin fa-fw" aria-hidden="true"></i></a><a href="javascript:void(0);" title="শেয়ার করুন WhatsApp" data-sharer="whatsapp" data-url="https://intisarbnaim.com/bn/01-cs-journey-starts/" data-title="আসুন C# শিখি - 01. জার্নির শুরু" data-web><i class="fab fa-whatsapp fa-fw" aria-hidden="true"></i></a><a href="javascript:void(0);" title="শেয়ার করুন Reddit" data-sharer="reddit" data-url="https://intisarbnaim.com/bn/01-cs-journey-starts/"><i class="fab fa-reddit fa-fw" aria-hidden="true"></i></a></span>
+            </div>
+        </div>
+    </div>
+
+    <div class="post-info-more">
+        <section class="post-tags"><i class="fas fa-tags fa-fw" aria-hidden="true"></i>&nbsp;<a href="/bn/tags/c-sharp/">C Sharp</a>,&nbsp;<a href="/bn/tags/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%8B%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%BF%E0%A6%82/">প্রোগ্রামিং</a></section>
+        <section>
+            <span><a href="javascript:void(0);" onclick="window.history.back();">পেছনে</a></span>&nbsp;|&nbsp;<span><a href="/bn/">হোম</a></span>
+        </section>
+    </div>
+
+    <div class="post-nav"><a href="/bn/browse-web-faster/" class="prev" rel="prev" title="ইন্টারনেট ব্রাউজ করুন আরো দ্রুত ও নিরাপদে"><i class="fas fa-angle-left fa-fw" aria-hidden="true"></i>ইন্টারনেট ব্রাউজ করুন আরো দ্রুত ও নিরাপদে</a></div>
+</div>
+</article></div>
+        </main><footer class="footer">
+        <div class="footer-container"><div class="footer-line" itemscope itemtype="http://schema.org/CreativeWork"><i class="far fa-copyright fa-fw" aria-hidden="true"></i><span itemprop="copyrightYear">2022</span><span class="author" itemprop="copyrightHolder">&nbsp;<a href="https://intisarbnaim.com" target="_blank">Intisar Bin Naim</a></span></div>
+        </div>
+    </footer></div>
+
+    <div id="fixed-buttons"><a href="#" id="back-to-top" class="fixed-button" title="উপরে ফিরে যান">
+            <i class="fas fa-arrow-up fa-fw" aria-hidden="true"></i>
+        </a><a href="#" id="view-comments" class="fixed-button" title="মন্তব্য দেখুন">
+            <i class="fas fa-comment fa-fw" aria-hidden="true"></i>
+        </a>
+    </div><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/autocomplete.js@0.38.1/dist/autocomplete.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/algoliasearch@4.14.2/dist/algoliasearch-lite.umd.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/lazysizes@5.3.2/lazysizes.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/clipboard@2.0.11/dist/clipboard.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/sharer.js@0.5.1/sharer.min.js"></script><script type="text/javascript">window.config={"code":{"copyTitle":"ক্লিপবোর্ডে কপি করুন","maxShownLines":50},"comment":{},"search":{"algoliaAppID":"TRVL8DOQN7","algoliaIndex":"index.bn","algoliaSearchKey":"2904157de91bbcda8744a8029fe1e7a0","highlightTag":"em","maxResultLength":10,"noResultsFound":"কোন ফলাফল পাওয়া যায়নি","snippetLength":50,"type":"algolia"}};</script><script type="text/javascript" src="/js/theme.min.js"></script></body>
+
+</html>

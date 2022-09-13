@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Let’s Learn C Sharp - Category - Intisar Bin Naim</title>
+        <link>https://intisarbnaim.com/categories/lets-learn-c-sharp/</link>
+        <description>Let’s Learn C Sharp - Category - Intisar Bin Naim</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>intisarbnaim@gmail.com (Intisar Bin Naim)</managingEditor>
+            <webMaster>intisarbnaim@gmail.com (Intisar Bin Naim)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 13 Sep 2022 13:11:09 &#43;0600</lastBuildDate><atom:link href="https://intisarbnaim.com/categories/lets-learn-c-sharp/" rel="self" type="application/rss+xml" /><item>
+    <title>Let’s Learn C# - 01. Journey Starts</title>
+    <link>https://intisarbnaim.com/01-cs-journey-starts/</link>
+    <pubDate>Tue, 13 Sep 2022 13:11:09 &#43;0600</pubDate>
+    <author>Intisar Bin Naim</author>
+    <guid>https://intisarbnaim.com/01-cs-journey-starts/</guid>
+    <description><![CDATA[Some Words Years ago, I tried teaching programming to one of my younger brothers. He was interested in game development with Unity, and I am also comfortable in C#, so I started with C#. While teaching, I noticed he wanted all the resources to be in Bangla, such as Bangla courses, Bangla books, etc. Not only that, he also wanted everything to be concise. What he wanted to learn should be to the point, nothing extra.]]></description>
+</item>
+</channel>
+</rss>
