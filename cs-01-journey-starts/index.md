@@ -17,6 +17,6 @@ And it's not simply because of the promise; there's another reason I'd like to s
 
 ## Conclusion
 
-Needless to say, I'm no C# guru. I’ll have to do a lot of research before writing. It is also foolish to assume that the writings will be 100% accurate. Please let me know if you find any mistakes in my writing. You can contact me directly on [Facebook](https://facebook.com/showmik1) or by [email](mailto:intisarbnaim@gmail.com). Also, feel free to contact me if you have any other questions.
+Needless to say, I'm no C# guru. I’ll have to do a lot of research before writing. It is also foolish to assume that the writings will be 100% accurate. Please let me know if you find any mistakes in my writing. You can contact me directly on [Facebook](https://facebook.com/intisarbnaim) or by [email](mailto:intisarbnaim@gmail.com). Also, feel free to contact me if you have any other questions.
 
 In the end, I hope this writing journey of mine will be of some use to you.
