@@ -4,8 +4,19 @@
         <link>https://intisarbnaim.com/tags/programming/</link>
         <description>Programming - Tag - Intisar Bin Naim</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>intisarbnaim@gmail.com (Intisar Bin Naim)</managingEditor>
-            <webMaster>intisarbnaim@gmail.com (Intisar Bin Naim)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 14 Sep 2022 00:09:40 &#43;0600</lastBuildDate><atom:link href="https://intisarbnaim.com/tags/programming/" rel="self" type="application/rss+xml" /><item>
-    <title>Let&#39;s Learn C# (02) — Why C#</title>
+            <webMaster>intisarbnaim@gmail.com (Intisar Bin Naim)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 14 Sep 2022 20:13:57 &#43;0600</lastBuildDate><atom:link href="https://intisarbnaim.com/tags/programming/" rel="self" type="application/rss+xml" /><item>
+    <title>Let&#39;s Learn C# (03) — What is C#?</title>
+    <link>https://intisarbnaim.com/cs-03-what-is-c-sharp/</link>
+    <pubDate>Wed, 14 Sep 2022 20:13:57 &#43;0600</pubDate>
+    <author>Intisar Bin Naim</author>
+    <guid>https://intisarbnaim.com/cs-03-what-is-c-sharp/</guid>
+    <description><![CDATA[What is C#? C# is a general-purpose, multi-paradigm, type-safe programming language that runs on the .NET platform.
+Although the definition is short, there are several terms that need a little discussion.
+General Purpose Language Here, the term &lsquo;general purpose&rsquo; refers to the ability to do a wide range of tasks using a single language. Here&rsquo;s a list of things you can do once you&rsquo;ve learned C#:
+Web Application Development: Using C#, you can easily create dynamic websites and web apps for the .]]></description>
+</item>
+<item>
+    <title>Let&#39;s Learn C# (02) — Why C#?</title>
     <link>https://intisarbnaim.com/cs-02-why-c-sharp/</link>
     <pubDate>Wed, 14 Sep 2022 00:09:40 &#43;0600</pubDate>
     <author>Intisar Bin Naim</author>

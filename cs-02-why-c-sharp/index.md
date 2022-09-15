@@ -1,4 +1,4 @@
-# Let's Learn C# (02) — Why C#
+# Let's Learn C# (02) — Why C#?
 
 
 <hr>

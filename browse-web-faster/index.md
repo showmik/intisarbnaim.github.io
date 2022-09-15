@@ -23,11 +23,15 @@ The first step is to select a browser. Yes, I know you are already using a brows
 
 <br>
 
-It is clear that Brave is designed for performance and security. But if you want to use another chromium-based browser instead of Brave, you can still follow the tips below.
+It is clear that Brave is designed for performance and security[^1].
+
+{{<admonition>}}
+If you want to use another chromium-based browser instead of Brave, you can still follow the tips below.
+{{</admonition>}}
 
 ## 2. Changing the DNS Server
 
-A DNS server is like a phone book, the browser knows the IP address of a domain by checking the DNS server. But the default DNS server that browsers use is much slower and less secure. So we will use a custom DNS server instead of this default server. Among the different DNS servers, I would recommend Cloudflare (1.1.1.1) because it is the fastest.
+A DNS server is like a phone book, the browser knows the IP address of a domain by checking the DNS server. But the default DNS server that browsers use is much slower and less secure. So we will use a custom DNS server instead of this default server. Among the different DNS servers, I would recommend Cloudflare (1.1.1.1) because it is the fastest[^2].
 
 > To change Brave DNS server load `brave://settings/security` in the address bar or go to Menu > Settings > Privacy and security > Security. Then turn on the "Use secure DNS" option and select the Cloudflare (1.1.1.1) DNS server.
 
@@ -66,4 +70,8 @@ Those who use download managers know that browser download speeds are much slowe
 ## Conclusion
 
 Doing these few things will make your browsing experience much faster and safer than before.
+
+[^1]: https://mksguide.com/google-chrome-vs-brave/
+[^2]: https://dnsperf.com/
+
 
