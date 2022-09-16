@@ -4,9 +4,18 @@
         <link>https://intisarbnaim.com/bn/</link>
         <description>It&#39;s time to meet the geek.</description>
         <generator>Hugo -- gohugo.io</generator><language>bn</language><managingEditor>intisarbnaim@gmail.com (Intisar Bin Naim)</managingEditor>
-            <webMaster>intisarbnaim@gmail.com (Intisar Bin Naim)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 14 Sep 2022 20:13:57 &#43;0600</lastBuildDate>
+            <webMaster>intisarbnaim@gmail.com (Intisar Bin Naim)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 16 Sep 2022 08:48:08 &#43;0600</lastBuildDate>
             <atom:link href="https://intisarbnaim.com/bn/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>আসুন C# শিখি (04) — .NET এর বেসিক</title>
+    <link>https://intisarbnaim.com/bn/cs-04-dotnet-basics/</link>
+    <pubDate>Fri, 16 Sep 2022 08:48:08 &#43;0600</pubDate>
+    <author>Intisar Bin Naim</author>
+    <guid>https://intisarbnaim.com/bn/cs-04-dotnet-basics/</guid>
+    <description><![CDATA[.NET (ডট নেট) শব্দটা এখন পর্যন্ত আমার বেশ কয়েকবার উল্লেখ করা হয়ে গেছে। নিশ্চিত থাকুন ভবিষ্যতেও অনেকবার &ldquo;.NET&rdquo; শব্দটা আপনাদের চোখে পড়বে। যেমন— .NET Framework, .NET Core, .NET Standard, .NET Platforms, ASP.NET ইত্যাদি। আগেই বলেছি C# হচ্ছে .NET-এর ল্যাঙ্গুয়েজ। তাই C# শেখার শুরুতে .NET কি, সেটা সম্বন্ধে আপনার একটা বেসিক ধারণা থাকা প্রয়োজন।
+.NET Platform .NET হচ্ছে একটা ডেভেলপমেন্ট প্ল্যাটফর্ম। আর ডেভেলপমেন্ট প্ল্যাটফর্ম হচ্ছে সফটওয়্যার/এপ্লিকেশন তৈরি ও রান করার জন্য যা যা দরকার, তার সব কিছুর একটা সিঙ্গেল কালেকশন। আপনি C# ব্যবহার করে যে এপগুলো তৈরি করবেন সেটা রান করার জন্য .]]></description>
+</item>
+<item>
     <title>আসুন C# শিখি (03) — C# কি?</title>
     <link>https://intisarbnaim.com/bn/cs-03-what-is-c-sharp/</link>
     <pubDate>Wed, 14 Sep 2022 20:13:57 &#43;0600</pubDate>

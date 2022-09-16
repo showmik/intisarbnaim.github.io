@@ -21,6 +21,8 @@ Here, the term 'general purpose' refers to the ability to do a wide range of tas
   
   - **Internet of Things (IoT):** You can use C# to create IoT apps that can run on different development boards, including the Raspberry Pi.
   
+  - **Machine Learning:** You also have options to work on machine learning using C#. 
+  
 As a result, it is clear that C# is a general-purpose programming language.
 
 ### Multi-paradigm
