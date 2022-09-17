@@ -5,18 +5,18 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="robots" content="noodp" />
-    <title>আসুন C# শিখি (04) — .NET এর বেসিক - Intisar Bin Naim</title><meta name="Description" content=".NET (ডট নেট) শব্দটা এখন পর্যন্ত আমার বেশ কয়েকবার উল্লেখ করা হয়ে গেছে। নিশ্চিত থাকুন ভবিষ্যতেও অনেকবার &#34;.NET&#34; শব্দটা আপনাদের চোখে পড়বে। যেমন— .NET Framework, .NET Core, .NET Standard, .NET Platforms, ASP.NET ইত্যাদি। আগেই বলেছি C# হচ্ছে .NET-এর ল্যাঙ্গুয়েজ। তাই C# শেখার শুরুতে .NET কি, সেটা সম্বন্ধে আপনার একটা বেসিক ধারণা থাকা প্রয়োজন।"><meta property="og:title" content="আসুন C# শিখি (04) — .NET এর বেসিক" />
-<meta property="og:description" content=".NET (ডট নেট) শব্দটা এখন পর্যন্ত আমার বেশ কয়েকবার উল্লেখ করা হয়ে গেছে। নিশ্চিত থাকুন ভবিষ্যতেও অনেকবার &#34;.NET&#34; শব্দটা আপনাদের চোখে পড়বে। যেমন— .NET Framework, .NET Core, .NET Standard, .NET Platforms, ASP.NET ইত্যাদি। আগেই বলেছি C# হচ্ছে .NET-এর ল্যাঙ্গুয়েজ। তাই C# শেখার শুরুতে .NET কি, সেটা সম্বন্ধে আপনার একটা বেসিক ধারণা থাকা প্রয়োজন।" />
+    <title>আসুন C# শিখি (04) — .NET এর বেসিক - ইনতিসার বিন নাইম</title><meta name="Description" content=".NET হচ্ছে একটা ডেভেলপমেন্ট প্ল্যাটফর্ম। আর ডেভেলপমেন্ট প্ল্যাটফর্ম হচ্ছে সফটওয়্যার/এপ্লিকেশন তৈরি ও রান করার জন্য যা যা দরকার, তার সব কিছুর একটা সিঙ্গেল কালেকশন। আপনি C# ব্যবহার করে যে এপগুলো তৈরি করবেন সেটা রান করার জন্য .NET প্ল্যাটফর্মের প্রয়োজন। এখন পর্যন্ত .NET-এর বেশ কয়েকটা ইমপ্লিমেন্টেশন তৈরি হয়েছে, যেমন— .NET, .NET Framework, .NET Core, .NET Standard ইত্যাদি।"><meta property="og:title" content="আসুন C# শিখি (04) — .NET এর বেসিক" />
+<meta property="og:description" content=".NET হচ্ছে একটা ডেভেলপমেন্ট প্ল্যাটফর্ম। আর ডেভেলপমেন্ট প্ল্যাটফর্ম হচ্ছে সফটওয়্যার/এপ্লিকেশন তৈরি ও রান করার জন্য যা যা দরকার, তার সব কিছুর একটা সিঙ্গেল কালেকশন। আপনি C# ব্যবহার করে যে এপগুলো তৈরি করবেন সেটা রান করার জন্য .NET প্ল্যাটফর্মের প্রয়োজন। এখন পর্যন্ত .NET-এর বেশ কয়েকটা ইমপ্লিমেন্টেশন তৈরি হয়েছে, যেমন— .NET, .NET Framework, .NET Core, .NET Standard ইত্যাদি।" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://intisarbnaim.com/bn/cs-04-dotnet-basics/" /><meta property="og:image" content="https://intisarbnaim.com/logo.png"/><meta property="article:section" content="posts" />
+<meta property="og:url" content="https://intisarbnaim.com/bn/cs-04-dotnet-basics/" /><meta property="og:image" content="https://intisarbnaim.com/images/avatar.png"/><meta property="article:section" content="posts" />
 <meta property="article:published_time" content="2022-09-16T08:48:08+06:00" />
-<meta property="article:modified_time" content="2022-09-16T00:00:00+00:00" /><meta property="og:site_name" content="Intisar Bin Naim" />
+<meta property="article:modified_time" content="2022-09-16T00:00:00+00:00" /><meta property="og:site_name" content="ইনতিসার বিন নাইম" />
 
 <meta name="twitter:card" content="summary_large_image"/>
-<meta name="twitter:image" content="https://intisarbnaim.com/logo.png"/>
+<meta name="twitter:image" content="https://intisarbnaim.com/images/avatar.png"/>
 
 <meta name="twitter:title" content="আসুন C# শিখি (04) — .NET এর বেসিক"/>
-<meta name="twitter:description" content=".NET (ডট নেট) শব্দটা এখন পর্যন্ত আমার বেশ কয়েকবার উল্লেখ করা হয়ে গেছে। নিশ্চিত থাকুন ভবিষ্যতেও অনেকবার &#34;.NET&#34; শব্দটা আপনাদের চোখে পড়বে। যেমন— .NET Framework, .NET Core, .NET Standard, .NET Platforms, ASP.NET ইত্যাদি। আগেই বলেছি C# হচ্ছে .NET-এর ল্যাঙ্গুয়েজ। তাই C# শেখার শুরুতে .NET কি, সেটা সম্বন্ধে আপনার একটা বেসিক ধারণা থাকা প্রয়োজন।"/>
+<meta name="twitter:description" content=".NET হচ্ছে একটা ডেভেলপমেন্ট প্ল্যাটফর্ম। আর ডেভেলপমেন্ট প্ল্যাটফর্ম হচ্ছে সফটওয়্যার/এপ্লিকেশন তৈরি ও রান করার জন্য যা যা দরকার, তার সব কিছুর একটা সিঙ্গেল কালেকশন। আপনি C# ব্যবহার করে যে এপগুলো তৈরি করবেন সেটা রান করার জন্য .NET প্ল্যাটফর্মের প্রয়োজন। এখন পর্যন্ত .NET-এর বেশ কয়েকটা ইমপ্লিমেন্টেশন তৈরি হয়েছে, যেমন— .NET, .NET Framework, .NET Core, .NET Standard ইত্যাদি।"/>
 <meta name="application-name" content="Intisar Bin Naim">
 <meta name="apple-mobile-web-app-title" content="Intisar Bin Naim"><meta name="theme-color" content="#ffffff"><meta name="msapplication-TileColor" content="#da532c"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
         <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -31,13 +31,13 @@
         "mainEntityOfPage": {
             "@type": "WebPage",
             "@id": "https:\/\/intisarbnaim.com\/bn\/cs-04-dotnet-basics\/"
-        },"image": ["https:\/\/intisarbnaim.com\/images\/Apple-Devices-Preview.png"],"genre": "posts","keywords": "C Sharp, প্রোগ্রামিং","wordcount":  581 ,
-        "url": "https:\/\/intisarbnaim.com\/bn\/cs-04-dotnet-basics\/","datePublished": "2022-09-16T08:48:08+06:00","dateModified": "2022-09-16T00:00:00+00:00","license": "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.","publisher": {
+        },"image": ["https:\/\/intisarbnaim.com\/images\/avatar.png"],"genre": "posts","keywords": "C Sharp, প্রোগ্রামিং","wordcount":  582 ,
+        "url": "https:\/\/intisarbnaim.com\/bn\/cs-04-dotnet-basics\/","datePublished": "2022-09-16T08:48:08+06:00","dateModified": "2022-09-16T00:00:00+00:00","license": "এই কাজটি ক্রিয়েটিভ কমনস অ্যাট্রিবিউশন — নন-কমার্শিয়াল 4.0 আন্তর্জাতিক লাইসেন্সের অধীনে লাইসেন্সপ্রাপ্ত।","publisher": {
             "@type": "Organization",
             "name": "Intisar Bin Naim","logo": "https:\/\/intisarbnaim.com\/images\/avatar.png"},"author": {
                 "@type": "Person",
                 "name": "Intisar Bin Naim"
-            },"description": ".NET (ডট নেট) শব্দটা এখন পর্যন্ত আমার বেশ কয়েকবার উল্লেখ করা হয়ে গেছে। নিশ্চিত থাকুন ভবিষ্যতেও অনেকবার \".NET\" শব্দটা আপনাদের চোখে পড়বে। যেমন— .NET Framework, .NET Core, .NET Standard, .NET Platforms, ASP.NET ইত্যাদি। আগেই বলেছি C# হচ্ছে .NET-এর ল্যাঙ্গুয়েজ। তাই C# শেখার শুরুতে .NET কি, সেটা সম্বন্ধে আপনার একটা বেসিক ধারণা থাকা প্রয়োজন।"
+            },"description": ".NET হচ্ছে একটা ডেভেলপমেন্ট প্ল্যাটফর্ম। আর ডেভেলপমেন্ট প্ল্যাটফর্ম হচ্ছে সফটওয়্যার/এপ্লিকেশন তৈরি ও রান করার জন্য যা যা দরকার, তার সব কিছুর একটা সিঙ্গেল কালেকশন। আপনি C# ব্যবহার করে যে এপগুলো তৈরি করবেন সেটা রান করার জন্য .NET প্ল্যাটফর্মের প্রয়োজন। এখন পর্যন্ত .NET-এর বেশ কয়েকটা ইমপ্লিমেন্টেশন তৈরি হয়েছে, যেমন— .NET, .NET Framework, .NET Core, .NET Standard ইত্যাদি।"
     }
     </script>
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-DHPM9FZ73K"></script>
@@ -60,7 +60,7 @@
     <div id="mask"></div><div class="wrapper"><header class="desktop" id="header-desktop">
     <div class="header-wrapper">
         <div class="header-title">
-            <a href="/bn/" title="Intisar Bin Naim"><span class="header-title-pre"><i class="fa-regular fa-at"></i></span>intisarbnaim</a>
+            <a href="/bn/" title="ইনতিসার বিন নাইম"><span class="header-title-pre"><i class="fa-regular fa-at"></i></span>intisarbnaim</a>
         </div>
         <div class="menu">
             <div class="menu-inner"><a class="menu-item" href="/bn/posts/"> পোস্ট </a><a class="menu-item" href="/bn/projects/"> প্রজেক্ট </a><a class="menu-item" href="/bn/tags/"> ট্যাগ </a><a class="menu-item" href="/bn/categories/"> ক্যাটাগরি </a><a class="menu-item" href="https://github.com/showmik" title="GitHub" rel="noopener noreffer" target="_blank"><i class='fab fa-github fa-fw' aria-hidden='true'></i>  </a><span class="menu-item delimiter"></span><span class="menu-item search" id="search-desktop">
@@ -68,15 +68,15 @@
                         <a href="javascript:void(0);" class="search-button search-toggle" id="search-toggle-desktop" title="সার্চ করুন">
                             <i class="fas fa-search fa-fw" aria-hidden="true"></i>
                         </a>
-                        <a href="javascript:void(0);" class="search-button search-clear" id="search-clear-desktop" title="Clear">
+                        <a href="javascript:void(0);" class="search-button search-clear" id="search-clear-desktop" title="পরিষ্কার করুন">
                             <i class="fas fa-times-circle fa-fw" aria-hidden="true"></i>
                         </a>
                         <span class="search-button search-loading" id="search-loading-desktop">
                             <i class="fas fa-spinner fa-fw fa-spin" aria-hidden="true"></i>
                         </span>
-                    </span><a href="javascript:void(0);" class="menu-item theme-switch" title="থিম পরিবর্তন করুন">
+                    </span><a href="javascript:void(0);" class="menu-item theme-switch" title="থিম পরিবর্তন">
                     <i class="fas fa-adjust fa-fw" aria-hidden="true"></i>
-                </a><a href="javascript:void(0);" class="menu-item language" title="ভাষা সিলেক্ট করুন">
+                </a><a href="javascript:void(0);" class="menu-item language" title="ভাষা নির্বাচন">
                     <i class="fa fa-globe" aria-hidden="true"></i>                      
                     <select class="language-select" id="language-select-desktop" onchange="location = this.value;"><option value="/bn/cs-04-dotnet-basics/" selected>বাংলা</option></select>
                 </a></div>
@@ -86,7 +86,7 @@
     <div class="header-container">
         <div class="header-wrapper">
             <div class="header-title">
-                <a href="/bn/" title="Intisar Bin Naim"><span class="header-title-pre"><i class="fa-regular fa-at"></i></span>intisarbnaim</a>
+                <a href="/bn/" title="ইনতিসার বিন নাইম"><span class="header-title-pre"><i class="fa-regular fa-at"></i></span>intisarbnaim</a>
             </div>
             <div class="menu-toggle" id="menu-toggle-mobile">
                 <span></span><span></span><span></span>
@@ -98,7 +98,7 @@
                         <a href="javascript:void(0);" class="search-button search-toggle" id="search-toggle-mobile" title="সার্চ করুন">
                             <i class="fas fa-search fa-fw" aria-hidden="true"></i>
                         </a>
-                        <a href="javascript:void(0);" class="search-button search-clear" id="search-clear-mobile" title="Clear">
+                        <a href="javascript:void(0);" class="search-button search-clear" id="search-clear-mobile" title="পরিষ্কার করুন">
                             <i class="fas fa-times-circle fa-fw" aria-hidden="true"></i>
                         </a>
                         <span class="search-button search-loading" id="search-loading-mobile">
@@ -108,9 +108,9 @@
                     <a href="javascript:void(0);" class="search-cancel" id="search-cancel-mobile">
                         বাতিল করুন
                     </a>
-                </div><a class="menu-item" href="/bn/posts/" title="">পোস্ট</a><a class="menu-item" href="/bn/projects/" title="">প্রজেক্ট</a><a class="menu-item" href="/bn/tags/" title="">ট্যাগ</a><a class="menu-item" href="/bn/categories/" title="">ক্যাটাগরি</a><a class="menu-item" href="https://github.com/showmik" title="GitHub" rel="noopener noreffer" target="_blank"><i class='fab fa-github fa-fw' aria-hidden='true'></i></a><a href="javascript:void(0);" class="menu-item theme-switch" title="থিম পরিবর্তন করুন">
+                </div><a class="menu-item" href="/bn/posts/" title="">পোস্ট</a><a class="menu-item" href="/bn/projects/" title="">প্রজেক্ট</a><a class="menu-item" href="/bn/tags/" title="">ট্যাগ</a><a class="menu-item" href="/bn/categories/" title="">ক্যাটাগরি</a><a class="menu-item" href="https://github.com/showmik" title="GitHub" rel="noopener noreffer" target="_blank"><i class='fab fa-github fa-fw' aria-hidden='true'></i></a><a href="javascript:void(0);" class="menu-item theme-switch" title="থিম পরিবর্তন">
                 <i class="fas fa-adjust fa-fw" aria-hidden="true"></i>
-            </a><a href="javascript:void(0);" class="menu-item" title="ভাষা সিলেক্ট করুন">
+            </a><a href="javascript:void(0);" class="menu-item" title="ভাষা নির্বাচন">
                     <i class="fa fa-globe fa-fw" aria-hidden="true"></i>
                     <select class="language-select" onchange="location = this.value;"><option value="/bn/cs-04-dotnet-basics/" selected>বাংলা</option></select>
                 </a></div>
@@ -126,7 +126,7 @@
             <div class="toc-content" id="toc-content-auto"></div>
         </div><article class="page single"><h1 class="single-title animate__animated animate__flipInX">আসুন C# শিখি (04) — .NET এর বেসিক</h1><div class="post-meta">
             <div class="post-meta-line"><span class="post-author"><a href="https://intisarbnaim.com" title="Author" target="_blank" rel="noopener noreffer author" class="author"><i class="fas fa-user-circle fa-fw" aria-hidden="true"></i>Intisar Bin Naim</a></span>&nbsp;<span class="post-category"><a href="/bn/categories/%E0%A6%86%E0%A6%B8%E0%A7%81%E0%A6%A8-c-sharp-%E0%A6%B6%E0%A6%BF%E0%A6%96%E0%A6%BF/"><i class="far fa-folder fa-fw" aria-hidden="true"></i>আসুন C Sharp শিখি</a>-এ অন্তর্ভুক্ত</span></div>
-            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw" aria-hidden="true"></i>&nbsp;<time datetime="16-09-2022">16-09-2022</time>&nbsp;<i class="fas fa-pencil-alt fa-fw" aria-hidden="true"></i>&nbsp;581-টি শব্দ&nbsp;
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw" aria-hidden="true"></i>&nbsp;<time datetime="16-09-2022">16-09-2022</time>&nbsp;<i class="fas fa-pencil-alt fa-fw" aria-hidden="true"></i>&nbsp;582-টি শব্দ&nbsp;
                 <i class="far fa-clock fa-fw" aria-hidden="true"></i>&nbsp;3 মিনিট&nbsp;</div>
         </div><div class="details toc" id="toc-static"  data-kept="">
                 <div class="details-summary toc-title">
@@ -163,9 +163,9 @@
         </div>
     </div>
 <h3 id="ইতহস">ইতিহাস</h3>
-<p>এতগুলো .NET এর মধ্যে পার্থক্য বুঝতে হলে এদের ইতিহাস সম্বন্ধে আপনাকে একটু জানতে হবে। সমস্যা নেই, আমি চেষ্টা করব কম কথায় ইতিহাস বলে শেষ করার।</p>
+<p>এতগুলো .NET এর মধ্যে পার্থক্য বুঝতে হলে এদের ইতিহাস সম্বন্ধে আপনাকে একটু জানতে হবে। সমস্যা নেই, চেষ্টা করব কম কথায় ইতিহাস বলে শেষ করার 😉।</p>
 <h4 id="net-framework">.NET Framework</h4>
-<p>.NET এবং সেই সাথে C# এর জার্নি শুরু হয় ২০০২ সালে .NET Framework (ভার্সন 1.0) এর মধ্য দিয়ে। যদিও সুদূর ভবিষ্যতে মাইক্রোসফটের .NET Framework-কে ক্রস প্ল্যাটফর্ম করার চিন্তাভাবনা ছিলো, কিন্তু এটা শুধু উইন্ডোজে রান করত। এর আরেক সমস্যা ছিল, ভার্সন 4.5 এর আগে .NET Framework ব্যাকওয়ার্ড কম্প্যাটাবল ছিল না। অর্থাৎ এক ভার্সনে বানানো এপ মডিফিকেশন ছাড়া আগের কোনো ভার্সনে রান করত না।</p>
+<p>.NET এবং সেই সাথে C# এর জার্নি শুরু হয় ২০০২ সালে এই .NET Framework (ভার্সন 1.0) এর মাধ্যমে। সুদূর ভবিষ্যতে মাইক্রোসফটের যদিও .NET Framework-কে ক্রস-প্ল্যাটফর্ম করার চিন্তাভাবনা ছিলো, কিন্তু এই ফ্রেমওয়ার্ক শুধু উইন্ডোজে রান করত। এর আরেক সমস্যা ছিল, ভার্সন 4.5 এর আগে .NET Framework ব্যাকওয়ার্ড কম্প্যাটাবল ছিল না। অর্থাৎ এক ভার্সনে বানানো এপ মডিফিকেশন ছাড়া আগের ভার্সনগুলোতে রান করত না।</p>
 <h4 id="mono">Mono</h4>
 <p>.NET Framework তো শুধু উইন্ডোজে রান করে, তাহলে যারা লিনাক্স বা ম্যাক ব্যবহার করে তারা কি করবে? তারা কি তাহলে .NET Framework এবং C# ব্যবহার করতে পারবে না?</p>
 <p>এই সমস্যা থেকেই ২০০৪ সালের দিকে <a href="https://en.wikipedia.org/wiki/Miguel_de_Icaza" target="_blank" rel="noopener noreffer ">Miguel de Icaza</a> নামের একজন স্মার্ট প্রোগ্রামার <a href="https://www.mono-project.com/" target="_blank" rel="noopener noreffer ">The Mono Project</a> নামের একটা ওপেন-সোর্স প্রজেক্ট শুরু করেন। এই প্রজেক্টের উদ্দেশ্য ছিলো .NET Framework-এর এমন এক ইমপ্লিমেন্টেশন তৈরি করা যা লিনাক্সেও চলবে। এই প্রচেষ্টা আসলেই স্মার্ট কারণ তার টিম অরিজিনাল সোর্স কোর্ড না দেখে, শুধু ডকিউমেন্টেশনের উপর ভিত্তি করে লিনাক্সের জন্য .NET Framework এর মতো আরেকটা .NET তৈরি করতে সক্ষম হয়েছিল।</p>
@@ -183,7 +183,7 @@
             <i class="icon fas fa-pencil-alt fa-fw" aria-hidden="true"></i>নোট<i class="details-icon fas fa-angle-right fa-fw" aria-hidden="true"></i>
         </div>
         <div class="details-content">
-            <div class="admonition-content">.NET Framework হচ্ছে লেগেসি প্ল্যাটফর্ম যা শুধু উইন্ডোজের জন্য। আর .NET হচ্ছে নতুন প্ল্যাটফর্ম যা ওপেন-সোর্স ও ক্রস-প্ল্যাটফর্ম।</div>
+            <div class="admonition-content">.NET Framework হচ্ছে লেগেসি বা পুরাতন প্ল্যাটফর্ম যা শুধু উইন্ডোজের জন্য। আর .NET হচ্ছে নতুন প্ল্যাটফর্ম যা ওপেন-সোর্স ও ক্রস-প্ল্যাটফর্ম।</div>
         </div>
     </div>
 <h3 id="পরশষ">পরিশেষ</h3>
@@ -221,9 +221,9 @@
 
     <div id="fixed-buttons"><a href="#" id="back-to-top" class="fixed-button" title="উপরে ফিরে যান">
             <i class="fas fa-arrow-up fa-fw" aria-hidden="true"></i>
-        </a><a href="#" id="view-comments" class="fixed-button" title="মন্তব্য দেখুন">
+        </a><a href="#" id="view-comments" class="fixed-button" title="মন্তব্যগুলো দেখুন">
             <i class="fas fa-comment fa-fw" aria-hidden="true"></i>
         </a>
-    </div><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/autocomplete.js@0.38.1/dist/autocomplete.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/algoliasearch@4.14.2/dist/algoliasearch-lite.umd.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/lazysizes@5.3.2/lazysizes.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/clipboard@2.0.11/dist/clipboard.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/sharer.js@0.5.1/sharer.min.js"></script><script type="text/javascript">window.config={"code":{"copyTitle":"ক্লিপবোর্ডে কপি করুন","maxShownLines":50},"comment":{},"search":{"algoliaAppID":"TRVL8DOQN7","algoliaIndex":"index.bn","algoliaSearchKey":"2904157de91bbcda8744a8029fe1e7a0","highlightTag":"em","maxResultLength":10,"noResultsFound":"কোন ফলাফল পাওয়া যায়নি","snippetLength":50,"type":"algolia"}};</script><script type="text/javascript" src="/js/theme.min.js"></script></body>
+    </div><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/autocomplete.js@0.38.1/dist/autocomplete.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/algoliasearch@4.14.2/dist/algoliasearch-lite.umd.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/lazysizes@5.3.2/lazysizes.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/clipboard@2.0.11/dist/clipboard.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/sharer.js@0.5.1/sharer.min.js"></script><script type="text/javascript">window.config={"code":{"copyTitle":"ক্লিপবোর্ডে কপি করুন","maxShownLines":50},"comment":{},"search":{"algoliaAppID":"TRVL8DOQN7","algoliaIndex":"index.bn","algoliaSearchKey":"2904157de91bbcda8744a8029fe1e7a0","highlightTag":"em","maxResultLength":10,"noResultsFound":"কোনো ফলাফল পাওয়া যায়নি","snippetLength":50,"type":"algolia"}};</script><script type="text/javascript" src="/js/theme.min.js"></script></body>
 
 </html>

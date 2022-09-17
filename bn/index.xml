@@ -1,10 +1,10 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Intisar Bin Naim</title>
+        <title>ইনতিসার বিন নাইম</title>
         <link>https://intisarbnaim.com/bn/</link>
         <description>হাই, আমি ইনতিসার! আমার পার্সোনাল ব্লগে আপনাকে স্বাগতম। আমি ডিজাইন এবং ডেভেলপমেন্ট নিয়ে কথা বলতে পছন্দ করি।</description>
         <generator>Hugo -- gohugo.io</generator><language>bn</language><managingEditor>intisarbnaim@gmail.com (Intisar Bin Naim)</managingEditor>
-            <webMaster>intisarbnaim@gmail.com (Intisar Bin Naim)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 16 Sep 2022 08:48:08 &#43;0600</lastBuildDate>
+            <webMaster>intisarbnaim@gmail.com (Intisar Bin Naim)</webMaster><copyright>এই কাজটি ক্রিয়েটিভ কমনস অ্যাট্রিবিউশন — নন-কমার্শিয়াল 4.0 আন্তর্জাতিক লাইসেন্সের অধীনে লাইসেন্সপ্রাপ্ত।</copyright><lastBuildDate>Fri, 16 Sep 2022 08:48:08 &#43;0600</lastBuildDate>
             <atom:link href="https://intisarbnaim.com/bn/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>আসুন C# শিখি (04) — .NET এর বেসিক</title>
@@ -24,7 +24,7 @@
     <description><![CDATA[C# কি? C# (সি শার্প) হচ্ছে একটা জেনারেল পারপাজ, মাল্টি-প্যারাডাইম, টাইপ সেফ প্রোগ্রামিং ল্যাঙ্গুয়েজ যা .NET প্ল্যাটফর্মে রান করে।
 সংজ্ঞাটা ছোট হলেও এর মধ্যে বেশ কিছু টার্ম রয়েছে যা নিয়ে একটু আলোচনা করা দরকার।
 জেনারেল পারপাজ ল্যাঙ্গুয়েজ এখানে জেনারেল পারপাজ বলতে বুঝাচ্ছে একটা ল্যাঙ্গুয়েজ ব্যবহার করেই সব ধরণের কাজ করতে পারা। C# শেখার পর আপনি যা যা করতে পারবেনঃ
-ওয়েব এপ্লিকেশন ডেভেলপমেন্টঃ .NET প্ল্যাটফর্ম বা অন্য কোনো ওপেন-সোর্স সফটওয়্যারের জন্য C# ব্যবহার করে সহজেই ডাইনামিক ওয়েবসাইট ও ওয়েব এপ তৈরি করতে পারবেন।]]></description>
+ওয়েব এপ্লিকেশন ডেভেলপমেন্টঃ .NET প্ল্যাটফর্ম বা অন্য কোনো ওপেন-সোর্স সফটওয়্যারের জন্য C# ব্যবহার করে আপনি সহজেই ডাইনামিক ওয়েবসাইট ও ওয়েব এপ তৈরি করতে পারবেন।]]></description>
 </item>
 <item>
     <title>আসুন C# শিখি (02) — কেন C#?</title>

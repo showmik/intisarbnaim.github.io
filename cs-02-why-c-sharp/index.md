@@ -5,7 +5,7 @@
 
 ## Why learn C# when there are so many other programming languages?
 
-First of all, congratulations on choosing a popular language such as C#. Rest assured you will never regret your decision to learn the language. If you want to become a good .NET developer or work with Unity, there is no good alternative to C#.
+First of all, congratulations on choosing a popular language such as C#. Rest assured you will never regret your decision to learn the language. If you want to become a good .NET developer or work with Unity, there is no alternative to C#.
 
 The following are other reasons why learning C# is a good idea:
 
