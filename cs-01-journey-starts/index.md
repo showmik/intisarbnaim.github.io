@@ -3,7 +3,7 @@
 
 ## Some Words
 
-Years ago, I once tried teaching programming to one of my younger brothers. He was interested in game development with [Unity](https://unity.com/), and I am also comfortable with C#, so I started with this language. While teaching, I noticed he wanted all the resources to be in Bangla, such as Bangla courses, Bangla books, etc. Not only that, he also wanted everything to be concise. What he wanted to learn should be to the point, nothing extra. But I have a habit of going deep into something when I start to teach it to others. I could tell he didn't like this bad habit of mine at all.
+Years ago, I once tried teaching programming to one of my younger brothers. He was interested in game development with [Unity](https://unity.com/), and I am also comfortable with C#, so I started with this language. While teaching, I noticed he wanted all the resources to be in Bangla, such as Bangla courses, Bangla books, etc. Not only that, he also wanted everything to be concise. What he wanted to learn should be to the point, nothing extra. But I have a habit of going deep into something when I start to teach it to others. I could tell he didn't like this bad habit of mine at all :sweat_smile:.
 
 ## Why Writing
 
