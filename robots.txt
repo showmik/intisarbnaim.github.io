@@ -1,0 +1,4 @@
+Sitemap: https://intisarbnaim.com/sitemap.xml
+Sitemap: https://intisarbnaim.com/bn/sitemap.xml
+User-agent: *
+Disallow:
