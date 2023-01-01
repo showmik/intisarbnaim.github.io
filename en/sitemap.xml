@@ -2,25 +2,8 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>https://intisarbnaim.com/tags/c-sharp/</loc><lastmod>2022-09-15T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="bn"
-                        href="https://intisarbnaim.com/bn/tags/c-sharp/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://intisarbnaim.com/tags/c-sharp/"
-                    /></url><url>
-            <loc>https://intisarbnaim.com/categories/</loc><lastmod>2022-09-15T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="bn"
-                        href="https://intisarbnaim.com/bn/categories/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://intisarbnaim.com/categories/"
-                    /></url><url>
-            <loc>https://intisarbnaim.com/</loc><lastmod>2022-09-15T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://intisarbnaim.com/furigana-tool/</loc><lastmod>2023-01-01T20:13:57&#43;06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://intisarbnaim.com/</loc><lastmod>2023-01-01T20:13:57&#43;06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="bn"
                         href="https://intisarbnaim.com/bn/"
@@ -29,17 +12,7 @@
                     hreflang="en"
                     href="https://intisarbnaim.com/"
                     /></url><url>
-            <loc>https://intisarbnaim.com/cs-03-what-is-c-sharp/</loc><lastmod>2022-09-14T20:13:57&#43;06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
-                        rel="alternate"
-                        hreflang="bn"
-                        href="https://intisarbnaim.com/bn/cs-03-what-is-c-sharp/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="https://intisarbnaim.com/cs-03-what-is-c-sharp/"
-                    /></url><url>
-            <loc>https://intisarbnaim.com/categories/lets-learn-c-sharp/</loc><lastmod>2022-09-15T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://intisarbnaim.com/posts/</loc><lastmod>2022-09-15T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://intisarbnaim.com/posts/</loc><lastmod>2023-01-01T20:13:57&#43;06:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
                         rel="alternate"
                         hreflang="bn"
                         href="https://intisarbnaim.com/bn/posts/"
@@ -48,8 +21,36 @@
                     hreflang="en"
                     href="https://intisarbnaim.com/posts/"
                     /></url><url>
-            <loc>https://intisarbnaim.com/tags/programming/</loc><lastmod>2022-09-15T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://intisarbnaim.com/tags/</loc><lastmod>2022-09-15T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://intisarbnaim.com/tags/c-sharp/</loc><lastmod>2022-09-15T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="bn"
+                        href="https://intisarbnaim.com/bn/tags/c-sharp/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://intisarbnaim.com/tags/c-sharp/"
+                    /></url><url>
+            <loc>https://intisarbnaim.com/categories/</loc><lastmod>2022-09-15T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="bn"
+                        href="https://intisarbnaim.com/bn/categories/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://intisarbnaim.com/categories/"
+                    /></url><url>
+            <loc>https://intisarbnaim.com/cs-03-what-is-c-sharp/</loc><lastmod>2022-09-14T20:13:57&#43;06:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="bn"
+                        href="https://intisarbnaim.com/bn/cs-03-what-is-c-sharp/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://intisarbnaim.com/cs-03-what-is-c-sharp/"
+                    /></url><url>
+            <loc>https://intisarbnaim.com/categories/lets-learn-c-sharp/</loc><lastmod>2022-09-15T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://intisarbnaim.com/tags/programming/</loc><lastmod>2022-09-15T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://intisarbnaim.com/tags/</loc><lastmod>2022-09-15T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="bn"
                         href="https://intisarbnaim.com/bn/tags/"
@@ -58,7 +59,7 @@
                     hreflang="en"
                     href="https://intisarbnaim.com/tags/"
                     /></url><url>
-            <loc>https://intisarbnaim.com/cs-02-why-c-sharp/</loc><lastmod>2022-09-15T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://intisarbnaim.com/cs-02-why-c-sharp/</loc><lastmod>2022-09-15T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="bn"
                         href="https://intisarbnaim.com/bn/cs-02-why-c-sharp/"
@@ -67,7 +68,7 @@
                     hreflang="en"
                     href="https://intisarbnaim.com/cs-02-why-c-sharp/"
                     /></url><url>
-            <loc>https://intisarbnaim.com/cs-01-journey-starts/</loc><lastmod>2022-09-15T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://intisarbnaim.com/cs-01-journey-starts/</loc><lastmod>2022-09-15T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="bn"
                         href="https://intisarbnaim.com/bn/cs-01-journey-starts/"
@@ -76,7 +77,7 @@
                     hreflang="en"
                     href="https://intisarbnaim.com/cs-01-journey-starts/"
                     /></url><url>
-            <loc>https://intisarbnaim.com/browse-web-faster/</loc><lastmod>2022-09-12T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority><xhtml:link
+            <loc>https://intisarbnaim.com/browse-web-faster/</loc><lastmod>2022-09-12T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="bn"
                         href="https://intisarbnaim.com/bn/browse-web-faster/"
@@ -85,8 +86,8 @@
                     hreflang="en"
                     href="https://intisarbnaim.com/browse-web-faster/"
                     /></url><url>
-            <loc>https://intisarbnaim.com/tags/internet/</loc><lastmod>2022-09-12T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://intisarbnaim.com/categories/tips-and-tricks/</loc><lastmod>2022-09-12T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://intisarbnaim.com/tags/internet/</loc><lastmod>2022-09-12T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
+            <loc>https://intisarbnaim.com/categories/tips-and-tricks/</loc><lastmod>2022-09-12T00:00:00&#43;00:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority></url><url>
             <loc>https://intisarbnaim.com/projects/</loc><lastmod>2022-08-05T08:02:20&#43;06:00</lastmod><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
                         rel="alternate"
                         hreflang="bn"
@@ -104,4 +105,14 @@
                     rel="alternate"
                     hreflang="en"
                     href="https://intisarbnaim.com/posts/"
-                    /></url></urlset>
+                    /></url><url>
+            <loc>https://intisarbnaim.com/projects/</loc><changefreq>weekly</changefreq><priority>0.5</priority><xhtml:link
+                        rel="alternate"
+                        hreflang="bn"
+                        href="https://intisarbnaim.com/bn/projects/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="https://intisarbnaim.com/projects/"
+                    /></url><url>
+            <loc>https://intisarbnaim.com/projects/software/app-development/</loc><changefreq>weekly</changefreq><priority>0.5</priority></url></urlset>

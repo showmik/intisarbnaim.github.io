@@ -4,7 +4,16 @@
         <link>https://intisarbnaim.com/bn/posts/</link>
         <description>সকল পোস্ট | ইনতিসার বিন নাইম</description>
         <generator>Hugo -- gohugo.io</generator><language>bn</language><managingEditor>intisarbnaim@gmail.com (Intisar Bin Naim)</managingEditor>
-            <webMaster>intisarbnaim@gmail.com (Intisar Bin Naim)</webMaster><copyright>এই কাজটি ক্রিয়েটিভ কমনস অ্যাট্রিবিউশন — নন-কমার্শিয়াল 4.0 আন্তর্জাতিক লাইসেন্সের অধীনে লাইসেন্সপ্রাপ্ত।</copyright><lastBuildDate>Fri, 16 Sep 2022 08:48:08 &#43;0600</lastBuildDate><atom:link href="https://intisarbnaim.com/bn/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>intisarbnaim@gmail.com (Intisar Bin Naim)</webMaster><copyright>এই কাজটি ক্রিয়েটিভ কমনস অ্যাট্রিবিউশন — নন-কমার্শিয়াল 4.0 আন্তর্জাতিক লাইসেন্সের অধীনে লাইসেন্সপ্রাপ্ত।</copyright><lastBuildDate>Tue, 20 Sep 2022 08:07:47 &#43;0600</lastBuildDate><atom:link href="https://intisarbnaim.com/bn/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>আসুন C# শিখি (05) — C# যেভাবে কাজ করে</title>
+    <link>https://intisarbnaim.com/bn/cs-05-how-c_sharp-works/</link>
+    <pubDate>Tue, 20 Sep 2022 08:07:47 &#43;0600</pubDate>
+    <author>Intisar Bin Naim</author>
+    <guid>https://intisarbnaim.com/bn/cs-05-how-c_sharp-works/</guid>
+    <description><![CDATA[যেকোনো প্রোগ্রামিং ল্যাংগুয়েজ শেখার শুরুতে সে ল্যাংগুয়েজটা কিভাবে কাজ করে তা না জানলেও চলবে, তবে এ বিষয়ে একটা ধারণা থাকা খারাপ আইডিয়া না। বরং প্রোগ্রামিং ল্যাংগুয়েজ কিভাবে কাজ করে সেটা জানলে ভিতরের অনেক বিষয়গুলো বুঝা সহজ হয়ে যাবে। এই পোস্টে তাই আমি চেষ্টা করেছি C# প্রোগ্রামিং ল্যাংগুয়েজ কিভাবে কাজ করে তা নিয়ে আপনাদের একটা ধারণা দেওয়ার। কিন্তু সে নিয়ে আলোচনার করার আগে আসুন জানি প্রোগ্রামিং আসলে কি।
+প্রোগ্রামিং কি? সহজ কথায়, প্রোগ্রামিং হচ্ছে কোনো একটা কাজ হাসিল করার উদ্দেশ্য কম্পিউটারকে হুকুম বা আদেশ করা। এটা করার জন্য আমাদেরকে হুকুমগুলো একটা ফাইলে লিখে রাখতে হয় যেটাকে বলা হয় সোর্স কোড। কোড বলতে আমারা সাধারণত এই সোর্স কোডকেই বুঝি এবং এই সোর্স কোড লেখাটাই হচ্ছে প্রোগ্রামিং। প্রোগ্রামিং-এর ভাষা অনুসারে সোর্স কোড লেখার নিয়ম ভিন্ন ভিন্ন হয়। তবে মজার বিষয় হচ্ছে কোড আমরা সে ভাষাই লিখি না কেন, কম্পিউটার তার কিছুই বুঝতে পারেনা। কারণ, আমরা যে সোর্স কোড লিখি সেটা জাস্ট একটা টেক্সট ফাইল, এটা শধু লেখা ছাড়া আর কিছুই না!]]></description>
+</item>
+<item>
     <title>আসুন C# শিখি (04) — .NET এর বেসিক</title>
     <link>https://intisarbnaim.com/bn/cs-04-dotnet-basics/</link>
     <pubDate>Fri, 16 Sep 2022 08:48:08 &#43;0600</pubDate>
