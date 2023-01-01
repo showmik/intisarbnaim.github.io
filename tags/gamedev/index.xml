@@ -1,0 +1,38 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>GameDev - Tag - Intisar Bin Naim</title>
+        <link>https://intisarbnaim.com/tags/gamedev/</link>
+        <description>GameDev - Tag - Intisar Bin Naim</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>intisarbnaim@gmail.com (Intisar Bin Naim)</managingEditor>
+            <webMaster>intisarbnaim@gmail.com (Intisar Bin Naim)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 01 Jan 2023 23:14:57 &#43;0600</lastBuildDate><atom:link href="https://intisarbnaim.com/tags/gamedev/" rel="self" type="application/rss+xml" /><item>
+    <title>Tetris Drift</title>
+    <link>https://intisarbnaim.com/tetris-drift/</link>
+    <pubDate>Sun, 01 Jan 2023 23:14:57 &#43;0600</pubDate>
+    <author>Intisar Bin Naim</author>
+    <guid>https://intisarbnaim.com/tetris-drift/</guid>
+    <description><![CDATA[Tetris Drift is a Tetris 🧱 clone.
+This game was made for learning purposes along with these other clones –
+Crashy FO Arrogant Invader Screenshots Download Tetris Drift ]]></description>
+</item>
+<item>
+    <title>Arrogant Invader</title>
+    <link>https://intisarbnaim.com/arrogant-invader/</link>
+    <pubDate>Sun, 01 Jan 2023 22:14:57 &#43;0600</pubDate>
+    <author>Intisar Bin Naim</author>
+    <guid>https://intisarbnaim.com/arrogant-invader/</guid>
+    <description><![CDATA[Arrogant Invader is my own version of the game Space Invaders 👾
+This game was made for learning purposes along with these other clones –
+Tetris Drift Crashy FO. Screenshots Download Arrogant Invader v1.0.0 ]]></description>
+</item>
+<item>
+    <title>Crahy FO</title>
+    <link>https://intisarbnaim.com/crashy-fo/</link>
+    <pubDate>Sun, 01 Jan 2023 21:14:57 &#43;0600</pubDate>
+    <author>Intisar Bin Naim</author>
+    <guid>https://intisarbnaim.com/crashy-fo/</guid>
+    <description><![CDATA[Crashy FO is a Flappy Bird clone where you play as FO the UFO 🛸 instead of Faby the bird.
+I made this game for learning purposes along with these other clones –
+Tetris Drift Arrogant Invader Screenshots Download Crashy FO v1.0.0 ]]></description>
+</item>
+</channel>
+</rss>

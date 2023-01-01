@@ -5,7 +5,7 @@ The internet has become a part of our existence now. The fact that you are readi
 
 ## 1.  Selecting a Browser
 
-The first step is to select a browser. Yes, I know you are already using a browser, be it Google Chrome, Mozilla's Firefox, or any other browser. But I would suggest you use the [Brave Browser](https://brave.com/). I have been using Brave for the past three years and I am quite satisfied with it. I might sound a little biased here, but I think the Brave browser is the best for the following reasons:
+The first step is to select a browser. Yes, I know you are already using a one, be it Google Chrome, Mozilla's Firefox, or any other browser. But I would suggest you use the [Brave Browser](https://brave.com/). I have been using Brave for the past three years and I am quite satisfied with it. I might sound a little biased here, but I think the Brave browser is the best for the following reasons:
 
 - Brave is a chromium-based browser, you can do almost everything in Brave that you could do in Chrome.
 

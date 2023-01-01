@@ -47,19 +47,19 @@ Formatting it into an HTML table would do the job and the code (excluding Furiga
 
 To do the same with this **HTML Table Generator**:
 
-* First, input how many rows and columns you need. In this case, It is two columns and five rows. Also check on the romaji support check box and then click on **Generate**.
+- First, input how many rows and columns you need. In this case, It is two columns and five rows. Also check on the romaji support check box and then click on **Generate**.
 
 	{{< image src="/images/AppInterface01-table-generator.png" width="280" alt="AppInterface01" >}}
   
-* It will generate a new window containing input text boxes corresponding to the number of rows and columns you entered. Fill up these boxes with proper input and then click **Run**.
+- It will generate a new window containing input text boxes corresponding to the number of rows and columns you entered. Fill up these boxes with proper input and then click **Run**.
   
 	{{< image src="/images/AppInterface02-table-generator.png" width="550" alt="AppInterface02" >}}
   
-* It will generate another window with the final table code. You can copy the whole thing by clicking on **Copy**. 
+- It will generate another window with the final table code. You can copy the whole thing by clicking on **Copy**. 
 
 	{{< image src="/images/AppInterface03-table-generator.png" width="550" alt="AppInterface03">}}
 
-* After adding some style, it looks something like this:
+- After adding some style, it looks something like this:
 
 	{{< image src="/images/kindle-table.jpg" width="400" alt="kindle">}}
 	
