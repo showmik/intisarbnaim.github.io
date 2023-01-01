@@ -5,6 +5,15 @@
         <description>Software/App Development - project - Intisar Bin Naim</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>intisarbnaim@gmail.com (Intisar Bin Naim)</managingEditor>
             <webMaster>intisarbnaim@gmail.com (Intisar Bin Naim)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://intisarbnaim.com/projects/software/app-development/" rel="self" type="application/rss+xml" /><item>
+    <title>HTML Table Generator</title>
+    <link>https://intisarbnaim.com/html-table-generator/</link>
+    <pubDate>Sun, 01 Jan 2023 20:14:57 &#43;0600</pubDate>
+    <author>Intisar Bin Naim</author>
+    <guid>https://intisarbnaim.com/html-table-generator/</guid>
+    <description><![CDATA[HTML Table Generator is a WPF application that takes user input and generates HTML table code, making the process much easier.
+Backstory I was working on an ebook file that I planned to read on my Kindle. The file had numerous Japanese dialogues and vocabularies that needed to be turned into an HTML table for the kindle to display properly. I also had to use HTML ruby syntax to ensure that it supported Furigana.]]></description>
+</item>
+<item>
     <title>Furigana Tool</title>
     <link>https://intisarbnaim.com/furigana-tool/</link>
     <pubDate>Sun, 01 Jan 2023 20:13:57 &#43;0600</pubDate>
