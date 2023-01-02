@@ -4,7 +4,32 @@
         <link>https://intisarbnaim.com/posts/</link>
         <description>All Posts | Intisar Bin Naim</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>intisarbnaim@gmail.com (Intisar Bin Naim)</managingEditor>
-            <webMaster>intisarbnaim@gmail.com (Intisar Bin Naim)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 14 Sep 2022 20:13:57 &#43;0600</lastBuildDate><atom:link href="https://intisarbnaim.com/posts/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>intisarbnaim@gmail.com (Intisar Bin Naim)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 20 Sep 2022 23:15:57 &#43;0600</lastBuildDate><atom:link href="https://intisarbnaim.com/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Catalyst Finalcial - Company Profile</title>
+    <link>https://intisarbnaim.com/catalyst-financial_company-profile/</link>
+    <pubDate>Tue, 20 Sep 2022 23:15:57 &#43;0600</pubDate>
+    <author>Intisar Bin Naim</author>
+    <guid>https://intisarbnaim.com/catalyst-financial_company-profile/</guid>
+    <description><![CDATA[Description This is a company profile I designed for the &lsquo;Catalyst Financial&rsquo;.
+Preview ]]></description>
+</item>
+<item>
+    <title>Milkshania - Company Profile &amp; Presentation</title>
+    <link>https://intisarbnaim.com/milkshania_presentation/</link>
+    <pubDate>Mon, 19 Sep 2022 23:15:57 &#43;0600</pubDate>
+    <author>Intisar Bin Naim</author>
+    <guid>https://intisarbnaim.com/milkshania_presentation/</guid>
+    <description><![CDATA[Preview ]]></description>
+</item>
+<item>
+    <title>Alberta Health Services - Intensive Outpatient Program Manual</title>
+    <link>https://intisarbnaim.com/ahs_manuaul/</link>
+    <pubDate>Sun, 18 Sep 2022 23:15:57 &#43;0600</pubDate>
+    <author>Intisar Bin Naim</author>
+    <guid>https://intisarbnaim.com/ahs_manuaul/</guid>
+    <description><![CDATA[Preview ]]></description>
+</item>
+<item>
     <title>Let&#39;s Learn C# (03) — What is C#?</title>
     <link>https://intisarbnaim.com/cs-03-what-is-c-sharp/</link>
     <pubDate>Wed, 14 Sep 2022 20:13:57 &#43;0600</pubDate>
@@ -34,6 +59,14 @@ The following are other reasons why learning C# is a good idea:
     <description><![CDATA[Some Words Years ago, I once tried teaching programming to one of my younger brothers. He was interested in game development with Unity, and I am also comfortable with C#, so I started with this language. While teaching, I noticed he wanted all the resources to be in Bangla, such as Bangla courses, Bangla books, etc. Not only that, he also wanted everything to be concise. What he wanted to learn should be to the point, nothing extra.]]></description>
 </item>
 <item>
+    <title>Klatt Media Group - Brochure</title>
+    <link>https://intisarbnaim.com/klatt-media-group_brochure/</link>
+    <pubDate>Mon, 12 Sep 2022 23:15:57 &#43;0600</pubDate>
+    <author>Intisar Bin Naim</author>
+    <guid>https://intisarbnaim.com/klatt-media-group_brochure/</guid>
+    <description><![CDATA[Preview ]]></description>
+</item>
+<item>
     <title>Browse the Web More Quickly and Securely</title>
     <link>https://intisarbnaim.com/browse-web-faster/</link>
     <pubDate>Mon, 12 Sep 2022 10:09:02 &#43;0600</pubDate>
@@ -60,45 +93,6 @@ The Ruby Syntax &ldquo;A ruby annotation is a small extra text, attached to the 
     <guid>https://intisarbnaim.com/html-table-generator/</guid>
     <description><![CDATA[HTML Table Generator is a WPF application that takes user input and generates HTML table code, making the process much easier.
 Backstory I was working on an ebook file that I planned to read on my Kindle. The file had numerous Japanese dialogues and vocabularies that needed to be turned into an HTML table for the kindle to display properly. I also had to use HTML ruby syntax to ensure that it supported Furigana.]]></description>
-</item>
-<item>
-    <title>Tetris Drift</title>
-    <link>https://intisarbnaim.com/tetris-drift/</link>
-    <pubDate>Wed, 15 Apr 2020 23:14:57 &#43;0600</pubDate>
-    <author>Intisar Bin Naim</author>
-    <guid>https://intisarbnaim.com/tetris-drift/</guid>
-    <description><![CDATA[Tetris Drift is a Tetris 🧱 clone.
-This game was made for learning purposes along with these other clones –
-Crashy FO Arrogant Invader Screenshots Download Tetris Drift ]]></description>
-</item>
-<item>
-    <title>Arrogant Invader</title>
-    <link>https://intisarbnaim.com/arrogant-invader/</link>
-    <pubDate>Wed, 15 Apr 2020 22:14:57 &#43;0600</pubDate>
-    <author>Intisar Bin Naim</author>
-    <guid>https://intisarbnaim.com/arrogant-invader/</guid>
-    <description><![CDATA[Arrogant Invader is my own version of the game Space Invaders 👾
-This game was made for learning purposes along with these other clones –
-Tetris Drift Crashy FO. Screenshots Download Arrogant Invader v1.0.0 ]]></description>
-</item>
-<item>
-    <title>Crahy FO</title>
-    <link>https://intisarbnaim.com/crashy-fo/</link>
-    <pubDate>Wed, 15 Apr 2020 21:14:57 &#43;0600</pubDate>
-    <author>Intisar Bin Naim</author>
-    <guid>https://intisarbnaim.com/crashy-fo/</guid>
-    <description><![CDATA[Crashy FO is a Flappy Bird clone where you play as FO the UFO 🛸 instead of Faby the bird.
-I made this game for learning purposes along with these other clones –
-Tetris Drift Arrogant Invader Screenshots Download Crashy FO v1.0.0 ]]></description>
-</item>
-<item>
-    <title>2D Platformer Project (03) - Game Development Is Hard…or Is It?</title>
-    <link>https://intisarbnaim.com/2d-platformer-project-03/</link>
-    <pubDate>Thu, 24 Oct 2019 23:15:57 &#43;0600</pubDate>
-    <author>Intisar Bin Naim</author>
-    <guid>https://intisarbnaim.com/2d-platformer-project-03/</guid>
-    <description><![CDATA[Description &ldquo;It’s been some time since I uploaded the last devlog. I have been busy with my studies and I didn’t have much time to work on my game. But I was still able to get some work done. In this video, I talked about what I did in the last one month and how overwhelmed I felt at some point.&rdquo;
-Video ]]></description>
 </item>
 </channel>
 </rss>
