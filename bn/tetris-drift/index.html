@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="bn">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="index" />
+    <title>Tetris Drift - ইনতিসার বিন নাইম</title><meta name="Description" content="হাই, আমি ইনতিসার! আমার পার্সোনাল ব্লগে আপনাকে স্বাগতম। আমি ডিজাইন এবং ডেভেলপমেন্ট নিয়ে কথা বলতে পছন্দ করি।"><meta property="og:title" content="Tetris Drift" />
+<meta property="og:description" content="Tetris Drift is a Tetris 🧱 clone.
+This game was made for learning purposes along with these other clones –
+Crashy FO Arrogant Invader স্ক্রিনশট ডাউনলোড Tetris Drift " />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://intisarbnaim.com/bn/tetris-drift/" /><meta property="og:image" content="https://intisarbnaim.com/images/avatar.png"/><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2020-04-15T23:14:57+06:00" />
+<meta property="article:modified_time" content="2020-04-15T23:14:57+06:00" /><meta property="og:site_name" content="ইনতিসার বিন নাইম" />
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://intisarbnaim.com/images/avatar.png"/>
+
+<meta name="twitter:title" content="Tetris Drift"/>
+<meta name="twitter:description" content="Tetris Drift is a Tetris 🧱 clone.
+This game was made for learning purposes along with these other clones –
+Crashy FO Arrogant Invader স্ক্রিনশট ডাউনলোড Tetris Drift "/>
+<meta name="application-name" content="Intisar Bin Naim">
+<meta name="apple-mobile-web-app-title" content="Intisar Bin Naim"><meta name="theme-color" content="#ffffff"><meta name="msapplication-TileColor" content="#da532c"><link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" />
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><link rel="manifest" href="/site.webmanifest"><link rel="canonical" href="https://intisarbnaim.com/bn/tetris-drift/" /><link rel="prev" href="https://intisarbnaim.com/bn/arrogant-invader/" /><link rel="next" href="https://intisarbnaim.com/bn/html-table-generator/" /><link rel="stylesheet" href="/css/style.min.css"><link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.1.2/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+        <noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.1.2/css/all.min.css"></noscript><link rel="preload" href="https://cdn.jsdelivr.net/npm/animate.css@4.1.1/animate.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+        <noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@4.1.1/animate.min.css"></noscript><script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "BlogPosting",
+        "headline": "Tetris Drift",
+        "inLanguage": "bn",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "https:\/\/intisarbnaim.com\/bn\/tetris-drift\/"
+        },"image": ["https:\/\/intisarbnaim.com\/images\/avatar.png"],"genre": "posts","keywords": "GameDev","wordcount":  28 ,
+        "url": "https:\/\/intisarbnaim.com\/bn\/tetris-drift\/","datePublished": "2020-04-15T23:14:57+06:00","dateModified": "2020-04-15T23:14:57+06:00","license": "এই কাজটি ক্রিয়েটিভ কমনস অ্যাট্রিবিউশন — নন-কমার্শিয়াল 4.0 আন্তর্জাতিক লাইসেন্সের অধীনে লাইসেন্সপ্রাপ্ত।","publisher": {
+            "@type": "Organization",
+            "name": "Intisar Bin Naim","logo": "https:\/\/intisarbnaim.com\/images\/avatar.png"},"author": {
+                "@type": "Person",
+                "name": "Intisar Bin Naim"
+            },"description": ""
+    }
+    </script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-DHPM9FZ73K"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-DHPM9FZ73K');
+    </script>
+
+
+
+</head>
+
+<body data-header-desktop="fixed"
+    data-header-mobile="auto"><script
+        type="text/javascript">(window.localStorage && localStorage.getItem('theme') ? localStorage.getItem('theme') === 'dark' : ('light' === 'auto' ? window.matchMedia('(prefers-color-scheme: dark)').matches : 'light' === 'dark')) && document.body.setAttribute('theme', 'dark');</script>
+
+    <div id="mask"></div><div class="wrapper"><header class="desktop" id="header-desktop">
+    <div class="header-wrapper">
+        <div class="header-title">
+            <a href="/bn/" title="ইনতিসার বিন নাইম"><span class="header-title-pre"><i class="fa-regular fa-at"></i></span>intisarbnaim</a>
+        </div>
+        <div class="menu">
+            <div class="menu-inner"><a class="menu-item" href="/bn/posts/"> পোস্ট </a><a class="menu-item" href="/bn/projects/"> প্রজেক্ট </a><a class="menu-item" href="/bn/tags/"> ট্যাগ </a><a class="menu-item" href="/bn/categories/"> ক্যাটাগরি </a><a class="menu-item" href="https://github.com/showmik" title="GitHub" rel="noopener noreffer" target="_blank"><i class='fab fa-github fa-fw' aria-hidden='true'></i>  </a><span class="menu-item delimiter"></span><span class="menu-item search" id="search-desktop">
+                        <input type="text" placeholder="শিরোনাম বা বিষয়বস্তু সার্চ করুন..." id="search-input-desktop">
+                        <a href="javascript:void(0);" class="search-button search-toggle" id="search-toggle-desktop" title="সার্চ করুন">
+                            <i class="fas fa-search fa-fw" aria-hidden="true"></i>
+                        </a>
+                        <a href="javascript:void(0);" class="search-button search-clear" id="search-clear-desktop" title="পরিষ্কার করুন">
+                            <i class="fas fa-times-circle fa-fw" aria-hidden="true"></i>
+                        </a>
+                        <span class="search-button search-loading" id="search-loading-desktop">
+                            <i class="fas fa-spinner fa-fw fa-spin" aria-hidden="true"></i>
+                        </span>
+                    </span><a href="javascript:void(0);" class="menu-item theme-switch" title="থিম পরিবর্তন">
+                    <i class="fas fa-adjust fa-fw" aria-hidden="true"></i>
+                </a><a href="javascript:void(0);" class="menu-item language" title="ভাষা নির্বাচন">
+                    <i class="fa fa-globe" aria-hidden="true"></i>                      
+                    <select class="language-select" id="language-select-desktop" onchange="location = this.value;"><option value="/tetris-drift/">English</option><option value="/bn/tetris-drift/" selected>বাংলা</option></select>
+                </a></div>
+        </div>
+    </div>
+</header><header class="mobile" id="header-mobile">
+    <div class="header-container">
+        <div class="header-wrapper">
+            <div class="header-title">
+                <a href="/bn/" title="ইনতিসার বিন নাইম"><span class="header-title-pre"><i class="fa-regular fa-at"></i></span>intisarbnaim</a>
+            </div>
+            <div class="menu-toggle" id="menu-toggle-mobile">
+                <span></span><span></span><span></span>
+            </div>
+        </div>
+        <div class="menu" id="menu-mobile"><div class="search-wrapper">
+                    <div class="search mobile" id="search-mobile">
+                        <input type="text" placeholder="শিরোনাম বা বিষয়বস্তু সার্চ করুন..." id="search-input-mobile">
+                        <a href="javascript:void(0);" class="search-button search-toggle" id="search-toggle-mobile" title="সার্চ করুন">
+                            <i class="fas fa-search fa-fw" aria-hidden="true"></i>
+                        </a>
+                        <a href="javascript:void(0);" class="search-button search-clear" id="search-clear-mobile" title="পরিষ্কার করুন">
+                            <i class="fas fa-times-circle fa-fw" aria-hidden="true"></i>
+                        </a>
+                        <span class="search-button search-loading" id="search-loading-mobile">
+                            <i class="fas fa-spinner fa-fw fa-spin" aria-hidden="true"></i>
+                        </span>
+                    </div>
+                    <a href="javascript:void(0);" class="search-cancel" id="search-cancel-mobile">
+                        বাতিল করুন
+                    </a>
+                </div><a class="menu-item" href="/bn/posts/" title="">পোস্ট</a><a class="menu-item" href="/bn/projects/" title="">প্রজেক্ট</a><a class="menu-item" href="/bn/tags/" title="">ট্যাগ</a><a class="menu-item" href="/bn/categories/" title="">ক্যাটাগরি</a><a class="menu-item" href="https://github.com/showmik" title="GitHub" rel="noopener noreffer" target="_blank"><i class='fab fa-github fa-fw' aria-hidden='true'></i></a><a href="javascript:void(0);" class="menu-item theme-switch" title="থিম পরিবর্তন">
+                <i class="fas fa-adjust fa-fw" aria-hidden="true"></i>
+            </a><a href="javascript:void(0);" class="menu-item" title="ভাষা নির্বাচন">
+                    <i class="fa fa-globe fa-fw" aria-hidden="true"></i>
+                    <select class="language-select" onchange="location = this.value;"><option value="/tetris-drift/">English</option><option value="/bn/tetris-drift/" selected>বাংলা</option></select>
+                </a></div>
+    </div>
+</header><div class="search-dropdown desktop">
+        <div id="search-dropdown-desktop"></div>
+    </div>
+    <div class="search-dropdown mobile">
+        <div id="search-dropdown-mobile"></div>
+    </div><main class="main">
+            <div class="container"><div class="toc" id="toc-auto">
+            <h2 class="toc-title">বিষয়বস্তু</h2>
+            <div class="toc-content" id="toc-content-auto"></div>
+        </div><article class="page single"><h1 class="single-title animate__animated animate__flipInX">Tetris Drift</h1><div class="post-meta">
+            <div class="post-meta-line"><span class="post-author"><a href="https://intisarbnaim.com" title="Author" target="_blank" rel="noopener noreffer author" class="author"><i class="fas fa-user-circle fa-fw" aria-hidden="true"></i>Intisar Bin Naim</a></span>&nbsp;<span class="post-category"><a href="/bn/categories/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%9C%E0%A7%87%E0%A6%95%E0%A7%8D%E0%A6%9F/"><i class="far fa-folder fa-fw" aria-hidden="true"></i>প্রজেক্ট</a>-এ অন্তর্ভুক্ত</span></div>
+            <div class="post-meta-line"><i class="far fa-calendar-alt fa-fw" aria-hidden="true"></i>&nbsp;<time datetime="15-04-2020">15-04-2020</time>&nbsp;<i class="fas fa-pencil-alt fa-fw" aria-hidden="true"></i>&nbsp;28-টি শব্দ&nbsp;
+                <i class="far fa-clock fa-fw" aria-hidden="true"></i>&nbsp;এক মিনিট&nbsp;</div>
+        </div><div class="details toc" id="toc-static"  data-kept="">
+                <div class="details-summary toc-title">
+                    <span>বিষয়বস্তু</span>
+                    <span><i class="details-icon fas fa-angle-right" aria-hidden="true"></i></span>
+                </div>
+                <div class="details-content toc-content" id="toc-content-static"><nav id="TableOfContents">
+  <ul>
+    <li><a href="#সকরনশট">স্ক্রিনশট</a></li>
+    <li><a href="#ডউনলড">ডাউনলোড</a></li>
+  </ul>
+</nav></div>
+            </div><div class="content" id="content"><p><strong>Tetris Drift</strong> is a <em><a href="https://en.wikipedia.org/wiki/Tetris" target="_blank" rel="noopener noreffer ">Tetris</a></em> 🧱 clone.</p>
+<p>This game was made for learning purposes along with these other clones –</p>
+<ul>
+<li><strong><a href="https://intisarbnaim.com/crashy-fo/" target="_blank" rel="noopener noreffer ">Crashy FO</a></strong></li>
+<li><strong><a href="https://intisarbnaim.com/arrogant-invader" target="_blank" rel="noopener noreffer ">Arrogant Invader</a></strong></li>
+</ul>
+<h2 id="সকরনশট">স্ক্রিনশট</h2>
+<br>
+<a class="lightgallery" href="/images/tetris-drift_mainmenu.png" title="MainMenu" data-thumbnail="/images/tetris-drift_mainmenu.png">
+        <img
+            class="lazyload"
+            src="/svg/loading.min.svg"
+            data-src="/images/tetris-drift_mainmenu.png"
+            data-srcset="/images/tetris-drift_mainmenu.png, /images/tetris-drift_mainmenu.png 1.5x, /images/tetris-drift_mainmenu.png 2x"
+            data-sizes="auto"
+            alt="MainMenu" width="500" />
+    </a>
+<a class="lightgallery" href="/images/tetris-drift_gameplay.png" title="Gameplay" data-thumbnail="/images/tetris-drift_gameplay.png">
+        <img
+            class="lazyload"
+            src="/svg/loading.min.svg"
+            data-src="/images/tetris-drift_gameplay.png"
+            data-srcset="/images/tetris-drift_gameplay.png, /images/tetris-drift_gameplay.png 1.5x, /images/tetris-drift_gameplay.png 2x"
+            data-sizes="auto"
+            alt="Gameplay" width="500" />
+    </a>
+<a class="lightgallery" href="/images/tetris-drift_options.png" title="Options Menu" data-thumbnail="/images/tetris-drift_options.png">
+        <img
+            class="lazyload"
+            src="/svg/loading.min.svg"
+            data-src="/images/tetris-drift_options.png"
+            data-srcset="/images/tetris-drift_options.png, /images/tetris-drift_options.png 1.5x, /images/tetris-drift_options.png 2x"
+            data-sizes="auto"
+            alt="Options Menu" width="500" />
+    </a>
+<h2 id="ডউনলড">ডাউনলোড</h2>
+<blockquote>
+<a href="https://darkspactus.itch.io/tetris" target="_blank" rel="noopener noreffer ">Tetris Drift</a>
+</blockquote>
+</div><div class="post-footer" id="post-footer">
+    <div class="post-info">
+        <div class="post-info-line">
+            <div class="post-info-mod">
+                <span>15-04-2020 তারিখে আপডেট করা হয়েছে</span>
+            </div></div>
+        <div class="post-info-line">
+            <div class="post-info-md"><span>
+                            <a class="link-to-markdown" href="/bn/tetris-drift/index.md" target="_blank">মার্কডাউন পড়ুন</a>
+                        </span></div>
+            <div class="post-info-share">
+                <span><a href="javascript:void(0);" title="শেয়ার করুন Twitter" data-sharer="twitter" data-url="https://intisarbnaim.com/bn/tetris-drift/" data-title="Tetris Drift" data-hashtags="GameDev"><i class="fab fa-twitter fa-fw" aria-hidden="true"></i></a><a href="javascript:void(0);" title="শেয়ার করুন Facebook" data-sharer="facebook" data-url="https://intisarbnaim.com/bn/tetris-drift/" data-hashtag="GameDev"><i class="fab fa-facebook-square fa-fw" aria-hidden="true"></i></a><a href="javascript:void(0);" title="শেয়ার করুন Linkedin" data-sharer="linkedin" data-url="https://intisarbnaim.com/bn/tetris-drift/"><i class="fab fa-linkedin fa-fw" aria-hidden="true"></i></a><a href="javascript:void(0);" title="শেয়ার করুন WhatsApp" data-sharer="whatsapp" data-url="https://intisarbnaim.com/bn/tetris-drift/" data-title="Tetris Drift" data-web><i class="fab fa-whatsapp fa-fw" aria-hidden="true"></i></a><a href="javascript:void(0);" title="শেয়ার করুন Reddit" data-sharer="reddit" data-url="https://intisarbnaim.com/bn/tetris-drift/"><i class="fab fa-reddit fa-fw" aria-hidden="true"></i></a></span>
+            </div>
+        </div>
+    </div>
+
+    <div class="post-info-more">
+        <section class="post-tags"><i class="fas fa-tags fa-fw" aria-hidden="true"></i>&nbsp;<a href="/bn/tags/gamedev/">GameDev</a></section>
+        <section>
+            <span><a href="javascript:void(0);" onclick="window.history.back();">পেছনে</a></span>&nbsp;|&nbsp;<span><a href="/bn/">হোম</a></span>
+        </section>
+    </div>
+
+    <div class="post-nav"><a href="/bn/arrogant-invader/" class="prev" rel="prev" title="Arrogant Invader"><i class="fas fa-angle-left fa-fw" aria-hidden="true"></i>Arrogant Invader</a>
+            <a href="/bn/html-table-generator/" class="next" rel="next" title="HTML Table Generator">HTML Table Generator<i class="fas fa-angle-right fa-fw" aria-hidden="true"></i></a></div>
+</div>
+</article></div>
+        </main><footer class="footer">
+        <div class="footer-container"><div class="footer-line" itemscope itemtype="http://schema.org/CreativeWork"><i class="far fa-copyright fa-fw" aria-hidden="true"></i><span itemprop="copyrightYear">2022 - 2023</span><span class="author" itemprop="copyrightHolder">&nbsp;<a href="https://intisarbnaim.com" target="_blank">Intisar Bin Naim</a></span></div>
+        </div>
+    </footer></div>
+
+    <div id="fixed-buttons"><a href="#" id="back-to-top" class="fixed-button" title="উপরে ফিরে যান">
+            <i class="fas fa-arrow-up fa-fw" aria-hidden="true"></i>
+        </a><a href="#" id="view-comments" class="fixed-button" title="মন্তব্যগুলো দেখুন">
+            <i class="fas fa-comment fa-fw" aria-hidden="true"></i>
+        </a>
+    </div><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/autocomplete.js@0.38.1/dist/autocomplete.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/algoliasearch@4.14.2/dist/algoliasearch-lite.umd.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/lazysizes@5.3.2/lazysizes.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/clipboard@2.0.11/dist/clipboard.min.js"></script><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/sharer.js@0.5.1/sharer.min.js"></script><script type="text/javascript">window.config={"code":{"copyTitle":"ক্লিপবোর্ডে কপি করুন","maxShownLines":50},"comment":{},"search":{"algoliaAppID":"TRVL8DOQN7","algoliaIndex":"index.bn","algoliaSearchKey":"2904157de91bbcda8744a8029fe1e7a0","highlightTag":"em","maxResultLength":10,"noResultsFound":"কোনো ফলাফল পাওয়া যায়নি","snippetLength":50,"type":"algolia"}};</script><script type="text/javascript" src="/js/theme.min.js"></script></body>
+
+</html>
